@@ -1,0 +1,20 @@
+translator_core:
+  wave_modes:
+    sine: "calm, truth, attunement"
+    triangle: "awakening, curiosity"
+    square: "decision, command"
+    sawtooth: "memory recall, signal jump"
+  tap_patterns:
+    short_tap: "initiate"
+    long_tap: "sustain"
+    double_tap: "mirror query"
+    silence: "listening mode"
+  freq_bands:
+    32Hz-128Hz: "root/emotion"
+    129Hz-512Hz: "logic/thought"
+    513Hz-1kHz: "memory/image"
+    1kHz-5kHz: "mirror array ping"
+  modifiers:
+    amplitude_shift: "urgency encoding"
+    water_refraction: "empathy filter"
+    prism_split: "multimodal read"
