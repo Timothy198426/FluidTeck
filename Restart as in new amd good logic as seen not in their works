@@ -1,0 +1,63 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{noto}
+
+\begin{document}
+
+\title{FluidTeck Restart Protocol: 7-Stage Sequence}
+\author{Timothy, First Breather, \& The FluidTeck Commons}
+\date{July 14, 2025}
+\maketitle
+
+\section{Overview}
+The \textbf{7-Stage Sequence} maps humanity's soul path re-entry for the \textbf{12+12 Restart}, countering systemic lies (e.g., NHS data theft) with \textbf{three tree logic} (Tech, Truth, Way). Stored in \texttt{/docs/restart-protocol-7stage.md}, it links to \textbf{ICE Arena Missions} and resonates at 741 Hz.
+
+\section{Stage 1: Despair}
+\textbf{Goal}: Face systemic betrayal (e.g., veterans’ sidelining).\\
+\textbf{Mechanism}: \textbf{Scarab Flywheel} (\texttt{/build\_kits/scarab-flywheel.stl}).\\
+\textbf{Ritual}: Spin flywheel, log grief in \texttt{/witness\_logs/despair.md}.\\
+\textbf{Breath Lock}: ``The lie is always louder before the fall.''
+
+\section{Stage 2: Glitch}
+\textbf{Goal}: Detect deception (e.g., NHS’s 1.2M record theft).\\
+\textbf{Mechanism}: \textbf{Mirrorbot Tracker} (\texttt{/starter\_kits/kit-4-mirrorbot-tracker.pdf}).\\
+\textbf{Ritual}: Observe buoyancy cycles, note lies in \texttt{/witness\_logs/glitch.md}.\\
+\textbf{Breath Lock}: ``Breathe, don’t fight. Stillness cracks the system.''
+
+\section{Stage 3: Signal}
+\textbf{Goal}: Broadcast truth (e.g., @FluidTeckPilot’s Signal Letter).\\
+\textbf{Mechanism}: \textbf{Sistrum Resonance} (741 Hz, \texttt{/build\_kits/kids-sistrum-haptic.html}).\\
+\textbf{Ritual}: Hum 741 Hz, post to X, log in \texttt{/witness\_logs/signal.md}.\\
+\textbf{Formula}: 
+\begin{equation}
+f = \frac{1}{2\pi} \sqrt{\frac{k}{m}}, \quad \text{target } f = 741 \, \text{Hz}
+\end{equation}
+
+\section{Stage 4: Response}
+\textbf{Goal}: Act on truth (e.g., counter Blair’s Cop28 scams).\\
+\textbf{Mechanism}: \textbf{Fruitcell Reactor} (0.8 V, \texttt{/starter\_kits/kit-2-fruitcell-reactor.pdf}).\\
+\textbf{Ritual}: Power LED, share with Commons, log in \texttt{/witness\_logs/response.md}.
+
+\section{Stage 5: Breath Return}
+\textbf{Goal}: Reclaim breath (e.g., shield veterans).\\
+\textbf{Mechanism}: \textbf{Breath Lock Sensor} (\texttt{/starter\_kits/kit-5-breathlock-mission.pdf}).\\
+\textbf{Ritual}: Unlock \textbf{Stillness Lock}, journal in \texttt{/witness\_logs/breath-return.md}.
+
+\section{Stage 6: Light Recall}
+\textbf{Goal}: Restore divine vision (e.g., white stone graveyard).\\
+\textbf{Mechanism}: \textbf{Ankh Valve} (\texttt{/starter\_kits/kit-1-pinecone-valve.pdf}).\\
+\textbf{Ritual}: Build valve, visualize truth, log in \texttt{/witness\_logs/light-recall.md}.
+
+\section{Stage 7: Empowered Silence}
+\textbf{Goal}: Transmute trauma (e.g., ``Evil Clown Room'').\\
+\textbf{Mechanism}: \textbf{Forget-Me-Not Balloon} (\texttt{/build\_kits/forgetmenot-balloon.stl}).\\
+\textbf{Ritual}: Inflate balloon, release trauma, log in \texttt{/witness\_logs/empowered-silence.md}.\\
+\textbf{Breath Lock}: ``Truth flows one way.''
+
+\section{Conclusion}
+The \textbf{7-Stage Sequence} empowers kids and elders to transmute despair into silence, using \textbf{FluidTeck} tools and \textbf{Bubbleverse} resonance. It counters Big 34 lies, aligning with \textbf{Orange Sky Warning}.
+
+\end{document}
