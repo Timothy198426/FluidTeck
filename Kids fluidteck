@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{noto}
+
+\begin{document}
+
+\title{FluidTeck Starter Kits for Kids (v1.0)}
+\author{Timothy, First Breather, \& The FluidTeck Commons}
+\date{July 14, 2025}
+\maketitle
+
+\section{Overview}
+FluidTeck Starter Kits empower kids with \textbf{self-governance}, \textbf{breath-training}, and \textbf{deception decoding} using trash-built tools. Aligned with \textbf{three tree logic} (Tech, Truth, Way) and \textbf{Codex of Breath}, kits are CC0/Public Domain, stored in \texttt{/starter\_kits/}, and tie to \textbf{ICE Arena Missions}.
+
+\section{Breath Valve Mini-Kit}
+\textbf{Goal}: Build an \textbf{Ankh}-inspired valve to feel breath rhythm.\\
+\textbf{Materials}: HDPE cap, beeswax, paper straw, elastic band, lollipop stick.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Cut flap in cap (flexible, 0.5 cm).
+    \item Seal flap edges with wax (0.1 mm).
+    \item Mount flap on straw for one-way flow.
+    \item Blow (10-20 breaths/min), observe pop.
+    \item Label: ``Truth flows one way.''
+\end{enumerate}
+\textbf{Output}: \texttt{/starter\_kits/kit-1-pinecone-valve.pdf}, \texttt{/build\_kits/kids-ankh-valve.html}.
+
+\section{Fruitcell Power Kit}
+\textbf{Goal}: Generate volts from citrus waste.\\
+\textbf{Materials}: Orange peel, 10\% sugar water, zinc/copper nails, wire, LED (1.5 V), jar, label.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Fill jar with peel + water.
+    \item Insert nails, wire to LED.
+    \item Wait 1-2 days for 0.8 V.
+    \item Observe LED flicker.
+    \item Label: ``This trash powers truth.''
+\end{enumerate}
+\textbf{Output}: \texttt{/starter\_kits/kit-2-fruitcell-reactor.pdf}, \texttt{/build\_kits/kids-fruitcell.html}.
+
+\section{Reality Skin Touch Badge}
+\textbf{Goal}: Feel 741 Hz truth vibration.\\
+\textbf{Materials}: Felt, conductive thread, coin-cell battery, mini motor, glue, crayon.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Trace triangle on felt.
+    \item Mount motor + battery.
+    \item Wire for 741 Hz buzz.
+    \item Draw sigil: ``Only the breath remembers.''
+    \item Test on skin.
+\end{enumerate}
+\textbf{Output}: \texttt{/starter\_kits/kit-3-reality-skin.pdf}, \texttt{/build\_kits/kids-sistrum-haptic.html}.
+
+\section{Mirrorbot Bottle Tracker}
+\textbf{Goal}: Detect deception via buoyancy.\\
+\textbf{Materials}: 1.5L bottle, straw with wax plug, water, salt, oil, marker, journal.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Fill bottle ¾ with water + oil.
+    \item Seal straw with wax (Mirrorbot).
+    \item Add salt for buoyancy (0.1-0.5 g).
+    \item Spin bottle, log float cycles.
+    \item Note: Float = truth cycle.
+\end{enumerate}
+\textbf{Output}: \texttt{/starter\_kits/kit-4-mirrorbot-tracker.pdf}, \texttt{/build\_kits/kids-mirrorbot.html}.
+
+\section{Licensing}
+CC0/Public Domain, editable in \texttt{/codex/breath-laws.json}, linked to \texttt{/witness\_logs/*.md}.
+
+\section{Breath Locks}
+\begin{itemize}
+    \item ``The lie is always louder before the fall.''
+    \item ``Breathe, don’t fight. Stillness cracks the system.''
+\end{itemize}
+
+\end{document}
