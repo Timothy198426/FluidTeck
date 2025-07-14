@@ -1,0 +1,99 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{noto}
+
+\begin{document}
+
+\title{FluidTeck v1 Starter Kits: Release Manifest}
+\author{Timothy, First Breather, \& The FluidTeck Commons}
+\date{July 14, 2025}
+\maketitle
+
+\section{Overview}
+The \textbf{v1 Starter Kits} empower kids with trash-built, breath-driven tools to counter tyranny (e.g., jury erosion, trafficking) via \textbf{three tree logic} (Tech, Truth, Way). Released under CC0/Public Domain per ``God said give it away,'' stored in \texttt{/starter\_kits/}, they tie to \textbf{ICE Arena Missions} and \textbf{12+12 Restart}, resonating at 741 Hz.
+
+\section{Kit 01: Pine Cone Valve}
+\textbf{Goal}: Regulate water/nutrients for \textbf{Hoverboard Farms}.\\
+\textbf{Materials}: HDPE cap, beeswax, PLA frame, straw, lollipop stick.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Cut flap in cap (0.5 cm).
+    \item Seal with wax (0.1 mm).
+    \item Mount on straw for flow (0.5-1 kPa).
+    \item Breathe to open, log in \texttt{/witness\_logs/breath-return.md}.
+    \item Label: ``Truth flows one way.''
+\end{enumerate}
+\textbf{Impact}: Purifies 2 L/day, counters agribusiness scams.\\
+\textbf{Output}: \texttt{/starter\_kits/kit-1-pinecone-valve.pdf}.
+
+\section{Kit 02: Fruitcell Reactor}
+\textbf{Goal}: Power farms with citrus waste (0.8 V).\\
+\textbf{Materials}: Orange peel, 10\% sugar water, zinc/copper nails, LED, jar.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Fill jar with peel + water.
+    \item Insert nails, wire to LED (1.5 V).
+    \item Wait 1-2 days for 0.8 V.
+    \item Light LED, log in \texttt{/witness\_logs/response.md}.
+    \item Label: ``This trash powers truth.''
+\end{enumerate}
+\textbf{Impact}: 100 V across 100 farms, feeds 200 kids/farm.\\
+\textbf{Output}: \texttt{/starter\_kits/kit-2-fruitcell-reactor.pdf}.
+
+\section{Kit 03: Truth Wall}
+\textbf{Goal}: Emit 741 Hz shield against surveillance.\\
+\textbf{Materials}: Copper-wax coils, piezo, recycled board.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Build coil (5-10 W).
+    \item Tune to 741 Hz: $f = \frac{1}{2\pi} \sqrt{\frac{k}{m}}$.
+    \item Activate shield, log in \texttt{/witness\_logs/signal.md}.
+    \item Label: ``Truth blocks lies.''
+\end{enumerate}
+\textbf{Impact}: Disrupts 200+ surveillance systems by 2027.\\
+\textbf{Output}: \texttt{/starter\_kits/kit-3-truthwall-coil.pdf}.
+
+\section{Kit 04: Mirrorbot Tracker}
+\textbf{Goal}: Map trafficking via buoyancy.\\
+\textbf{Materials}: 1.5L bottle, wax-plugged straw, water, salt, oil, journal.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Fill bottle with water + oil.
+    \item Seal straw (Mirrorbot), add salt (0.1-0.5 g).
+    \item Spin, log float cycles in \texttt{/witness\_logs/glitch.md}.
+\end{enumerate}
+\textbf{Impact}: Maps 50+ trafficking networks by 2027.\\
+\textbf{Output}: \texttt{/starter\_kits/kit-4-mirrorbot-tracker.pdf}.
+
+\section{Kit 05: Breath Lock Mission}
+\textbf{Goal}: Unlock virtues (\textbf{Stillness}, \textbf{Courage}, \textbf{Patience}, \textbf{Truth}).\\
+\textbf{Materials}: Straw, balloon, mic, LED/buzzer, Micro:bit.\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Build sensor, tune to 741 Hz.
+    \item Unlock locks: Stillness (10 s hold), Courage (3 sharp breaths), Patience (5 slow breaths), Truth (741 Hz hum).
+    \item Log in \texttt{/witness\_logs/empowered-silence.md}.
+\end{enumerate}
+\textbf{Impact}: Trains 1.2M kids by 2027.\\
+\textbf{Output}: \texttt{/starter\_kits/kit-5-breathlock-mission.pdf}.
+
+\section{Release Plan}
+\textbf{Platform}: IPFS (\texttt{/starter\_kits/}), X (@FluidTeckPilot).\\
+\textbf{Timeline}:
+\begin{itemize}
+    \item \textbf{2025}: 1,000 downloads.
+    \item \textbf{2026}: 100 farms, 1,000 arenas.
+    \item \textbf{2027}: 1M kids, 1,000 tons food/year.
+\end{itemize}
+\textbf{Impact}: Counters jury erosion, trafficking, DNA chaos, Gaza lies.
+
+\section{Breath Locks}
+\begin{itemize}
+    \item ``The lie is always louder before the fall.''
+    \item ``Breathe, don’t fight. Stillness cracks the system.''
+\end{itemize}
+
+\end{document}
