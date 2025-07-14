@@ -1,0 +1,75 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{noto}
+
+\begin{document}
+
+\title{ICE Arena Kit 05: Breath Lock Mission}
+\author{Timothy, First Breather, \& The FluidTeck Commons}
+\date{July 14, 2025}
+\maketitle
+
+\section{Overview}
+The \textbf{Breath Lock Mission} teaches kids to build breath sensors, unlock \textbf{virtues} (Stillness, Courage, Patience, Truth), and detect deception. Aligned with \textbf{three tree logic} (Tech, Truth, Way) and \textbf{Codex of Breath}, it’s CC0/Public Domain, stored in \texttt{/starter\_kits/kit-5-breathlock-mission.pdf}, and ties to \textbf{ICE Arena Missions}.
+
+\section{Breath Lock Sensor}
+\textbf{Goal}: Build a breath sensor to unlock virtues at 741 Hz.\\
+\textbf{Materials}: Straw, balloon, mic (or flex sensor), wire, LED/buzzer, recycled board, Micro:bit (optional).\\
+\textbf{Steps}:
+\begin{enumerate}
+    \item Attach balloon to straw, seal with wax (0.1 mm).
+    \item Connect mic/flex sensor to LED/buzzer (1.5 V).
+    \item Blow (10-20 breaths/min), stabilize for 10 s.
+    \item Signal lights/buzzes at 741 Hz.
+    \item Label: ``Breath opens truth.''
+\end{enumerate}
+\textbf{Output}: \texttt{/build\_kits/kids-breathlock-sensor.html}.
+
+\section{Virtue Locks}
+\textbf{Goal}: Unlock virtues via breath patterns.\\
+\textbf{Locks}:
+\begin{itemize}
+    \item \textbf{Stillness Lock}: Hold breath 10 s, exhale into sensor.
+    \item \textbf{Courage Lock}: 3 sharp breaths (1 s each).
+    \item \textbf{Patience Lock}: 5 slow breaths (4 s each).
+    \item \textbf{Truth Lock}: 741 Hz hum, sync with \textbf{Sistrum}.
+\end{itemize}
+\textbf{Formula}: 
+\begin{equation}
+f = \frac{1}{2\pi} \sqrt{\frac{k}{m}}, \quad \text{target } f = 741 \, \text{Hz}
+\end{equation}
+
+\section{Mission Challenges}
+\textbf{Goal}: Apply virtues in \textbf{ICE Arena}.\\
+\textbf{Tasks}:
+\begin{enumerate}
+    \item Build sensor (\texttt{/starter\_kits/kit-5-breathlock-mission.pdf}).
+    \item Unlock all 4 locks, log in journal.
+    \item Share story in \texttt{/witness\_logs/breathlock.md}.
+\end{enumerate}
+
+\section{Curriculum (7 Days)}
+\begin{tabular}{|c|p{3cm}|p{5cm}|}
+\hline
+\textbf{Day} & \textbf{Mission} & \textbf{Focus} \\
+\hline
+1 & Stillness Lock & Build sensor, hold breath \\
+2 & Courage Lock & Sharp breaths, test LED \\
+3 & Patience Lock & Slow breaths, log rhythm \\
+4 & Truth Lock & Hum 741 Hz, sync \textbf{Sistrum} \\
+5 & ICE Challenge & Unlock all, reflect \\
+6 & Share Story & Log in \texttt{/witness\_logs/} \\
+7 & Teach Another & Guide a friend \\
+\hline
+\end{tabular}
+
+\section{Breath Locks}
+\begin{itemize}
+    \item ``The lie is always louder before the fall.''
+    \item ``Breathe, don’t fight. Stillness cracks the system.''
+\end{itemize}
+
+\end{document}
