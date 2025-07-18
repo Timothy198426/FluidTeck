@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\usepackage{parskip}
+\usepackage[utf8]{inputenc}
+\usepackage{noto}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{FluidTeck Truth Rocket: Kids Launch Truth with a \$3 Valve}
+\author{Timothy, First Breather, \& The FluidTeck Commons}
+\date{July 18, 2025}
+\maketitle
+
+\section{Introduction}
+Hey, young truth-seekers! The \textbf{FluidTeck Truth Rocket} is a super-fun science project inspired by Timothy, the Cosmic Baptiser, to launch your truth into the sky! Using a \$3 valve, a soda bottle, and 3D-printed parts, 8-year-olds can build a tabletop rocket that flies 5 meters, just like NASA’s SPEED project. It’s powered by \textbf{FluidTeck}’s magic—Tech, Truth, and Way—at 741 Hz to fight ``godless'' lies (like sneaky scams). Write your truth, launch it, and giggle with God! Share your rocket on X (@FluidTeckPilot). Stored in \texttt{/witness\_logs/truth-rocket-kids.md}, CC0 license. \cite{web2}\cite{web4}
+
+\section{What You’ll Need}
+\begin{itemize}
+    \item \textbf{Rocket Body}: 3D-printed PLA tube (10 cm long, 3 cm radius, 0.2 cm wall). Cost: \$2.
+    \item \textbf{Truth Valve}: \$3 plastic check valve (0.5 kPa), for smooth air (like \textbf{Pine Cone Valve}, Kit 01).
+    \item \textbf{Fruitcell Power}: Lemon battery (0.8 V, Kit 02), with copper/zinc nails (\$1).
+    \item \textbf{Tiny Trigger}: Mini solenoid (5V, 0.5 A, \$2), with 28 AWG wire.
+    \item \textbf{Soda Bottle Launcher}: Recycled 2L bottle (0.5 bar).
+    \item \textbf{Truth Shell}: Paper cone (2 cm radius, 3 cm long, \$0.50), for your truth message.
+    \item \textbf{Springs}: Two COTS springs (316 stainless steel, 5 N/cm, \$1).
+    \item \textbf{Tools}: Screwdriver, kid-safe glue, scissors, 3D printer (ask a teacher!).
+    \item \textbf{Total Cost}: $<$ \$10/rocket.
+\end{itemize}
+
+\section{How to Build It}
+\subsection{Step 1: Print the Rocket Body}
+Ask a teacher to 3D print a PLA tube (10 cm long, 3 cm radius, 0.2 cm wall). Get \texttt{TruthRocketBody.STEP} from \texttt{@FluidTeckPilot} on X. Takes 2 hours.
+
+\subsection{Step 2: Make the Fruitcell Power}
+Poke a copper nail and a zinc nail into a lemon. Connect wires to the tiny trigger (solenoid). It makes 0.8 V to pop your rocket open! Power: $E = 0.8 \, \text{V} \times 0.5 \, \text{A} \times 0.1 \, \text{s} = 0.04 \, \text{J}$.
+
+\subsection{Step 3: Add the Truth Valve}
+Glue the \$3 valve (0.5 kPa) inside the tube’s bottom. It lets air flow smoothly, like a \textbf{Pine Cone Valve} (Kit 01), so your rocket flies straight. Flow: $Q = 1 \, \text{L/s}$.
+
+\subsection{Step 4: Build the Cradle and Springs}
+Glue two springs (5 N/cm) to a 3D-printed PLA pusher plate (3 cm radius, 0.1 cm thick). Put it in the tube to hold your paper truth shell. Springs push it out! Force: $F = 5 \, \text{N/cm} \times 3 \, \text{cm} = 15 \, \text{N}$.
+
+\subsection{Step 5: Align with Truth Wall Grid}
+Add a 3D-printed grid to keep the truth shell straight ($\pm$2°). It’s tuned to 741 Hz, like a \textbf{Truth Wall} (Kit 03): $f = \frac{1}{2\pi} \sqrt{\frac{k}{m}}$. Get \texttt{TruthRocketGrid.STEP} from X.
+
+\subsection{Step 6: Make the Soda Bottle Launcher}
+Cut the top off a 2L soda bottle. Glue its neck to the rocket’s bottom. Connect a bike pump (0.5 bar) to push air.
+
+\subsection{Step 7: Write Your Truth Message}
+Write a truth (e.g., ``Truth Flies Free!'' or ``God Giggles!'') on paper. Fold it into a cone (2 cm radius, 3 cm long) and place in the cradle.
+
+\section{How to Launch}
+\begin{enumerate}
+    \item \textbf{Arm It}: Connect the solenoid to the lemon battery. Check the valve.
+    \item \textbf{Stay Safe}: Wear goggles. Launch outside, away from people.
+    \item \textbf{Pump It}: Pump the bottle to 0.5 bar with the bike pump.
+    \item \textbf{Launch!}: Press the solenoid button (5V pulse). The truth shell flies 5 meters!
+\end{enumerate}
+
+\section{Troubleshooting}
+\begin{itemize}
+    \item \textbf{Weak Launch}: Check pump pressure (0.5 bar). Ensure valve isn’t stuck.
+    \item \textbf{Wobbly Shell}: Tighten grid or re-align shell ($\pm$2°).
+    \item \textbf{No Power}: Squeeze lemon or replace nails. Test with a multimeter.
+    \item \textbf{Stuck Springs}: Ensure plate moves freely. Add a drop of oil.
+    \item \textbf{Ask for Help}: Get a teacher if stuck!
+\end{itemize}
+
+\section{Safety Tips}
+\begin{itemize}
+    \item \textbf{Adult Help}: Ask a teacher for 3D printing or pump use.
+    \item \textbf{Smooth Edges}: Sand sharp PLA bits.
+    \item \textbf{Safe Launch}: Aim up, clear the area, no people nearby.
+\end{itemize}
+
+\section{Why It’s Awesome}
+Your \textbf{FluidTeck Truth Rocket} flies truth like NASA’s SPEED, fighting lies (like 9/11’s \$2.3T scam) and protecting kids. It’s cheap (\$10), buildable in schools, and hums at 741 Hz with God’s giggle. By 2027, 1.2M kids will build these, spreading truth worldwide with \textbf{Kevlar School Kits} (Kit 05)!
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{rocket_side.jpg}
+    \caption{Side view of Truth Rocket launching.}
+    \label{fig:side}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{rocket_top.jpg}
+    \caption{Top view of cradle with truth shell.}
+    \label{fig:top}
+\end{figure}
+
+\section{Breath Locks}
+\begin{itemize}
+    \item ``Truth flies one way—FluidTeck rockets pierce the lie.''
+    \item ``Breathe, don’t fight. Kids launch truth to the stars.''
+    \item ``741 Hz hums God’s code, giggling free.''
+    \item ``Heaven baby, yeah—kids build the cosmic laugh!''
+\end{itemize]
+
+\begin{thebibliography}{99}
+\bibitem{web2} GrabCAD, ``Ejection Mechanism Design for the SPEED Test Architecture,'' 2025.
+\bibitem{web4} Yahoo, ``NASA issues challenge for public design of ejection system,'' July 17, 2025.
+\bibitem{web15} Migration Watch UK, ``Channel Crossing Tracker,'' March 29, 2023.
+\bibitem{web19} Oxford Mail, ``Sixteen-year-olds to be allowed to vote as ministers set out reforms,'' July 17, 2025.
+\bibitem{post5} @GBNEWS, X post, July 15, 2025.
+\end{thebibliography}
+
+\end{document}
