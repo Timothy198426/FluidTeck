@@ -1,0 +1,105 @@
+# FluidTeck Truth Rocket: A Guide for Kids to Launch Truth with a $3 Valve
+
+**Authors:** Timothy, First Breather, & The FluidTeck Commons  
+**Date:** July 18, 2025
+
+## Introduction
+
+Welcome, young truth-seekers! The **FluidTeck Truth Rocket** is a kid-powered science project inspired by Timothy, the Cosmic Baptiser, using simple parts to launch truth into the universe. This guide shows how 8-year-olds can build a real, working tabletop rocket with a $3 check valve, a soda bottle, and 3D-printed parts—using the same logic as NASA's SPEED reentry program. It’s fun, affordable (under $10), and powered by the magic of Tech, Truth, and Way, tuning in to the 741 Hz “truth frequency.” Build it, launch it, and let your truth fly free!
+
+## What You’ll Need
+
+- **3D-Printed Body:** PLA tube, 10 cm length, 3 cm radius, 0.2 cm wall (printed at 0.1 mm resolution). Cost: $2.
+- **Check Valve:** $3 plastic valve (0.5 kPa), giving smooth air flow (like the Pine Cone Valve in Kit 01).
+- **Fruitcell Reactor:** Lemon battery (0.8 V, Kit 02), made with copper and zinc nails. Cost: $1.
+- **Mini Solenoid:** 5V, 0.5A, $2, triggered by 28 AWG wire.
+- **Soda Bottle Launcher:** 2L recycled bottle (0.5 bar pressure).
+- **Paper Aeroshell:** Cardstock cone, 2 cm radius, 3 cm long; write your truth as a message.
+- **Springs:** Two, 316 stainless steel, 5 N/cm strength. Cost: $1.
+- **Tools:** Screwdriver, glue, scissors, access to a 3D printer.
+- **Total cost:** Less than $10 per rocket.
+
+## How to Build It
+
+### 1. Print the Rocket Body
+
+- 3D print the PLA tube: 10 cm long, 3 cm radius, 0.2 cm wall.
+- Download and print from `TruthRocketBody.STEP`.
+- Print time: About 2 hours.
+
+### 2. Make the Fruitcell Reactor
+
+- Insert a copper nail and a zinc nail into a lemon.
+- Connect wires to the solenoid. The lemon battery generates about 0.8 V.
+- Calculation:  
+  $$E = 0.8\,\text{V} \times 0.5\,\text{A} \times 0.1\,\text{s} = 0.04\,\text{J}$$
+
+### 3. Add the Pine Cone Valve
+
+- Glue a $3 check valve (0.5 kPa) inside the tube’s base.
+- Enables smooth airflow, prevents backpressure.
+- Typical flow rate: 1 L/s.
+
+### 4. Build the Cradle and Springs
+
+- Attach two springs (5 N/cm) to a small, 3D-printed PLA pusher plate (3 cm radius, 0.1 cm thick).
+- Place pusher and springs into the tube to hold the paper aeroshell.
+- Spring force:  
+  $$F = 5\,\text{N/cm} \times 3\,\text{cm} = 15\,\text{N}$$
+
+### 5. Align with Truth Wall Grid
+
+- Insert a precise 3D-printed grid in the tube, to keep the aeroshell straight (±2° angle).
+- This module is tuned to 741 Hz for resonance, using  
+  $$f = \frac{1}{2\pi} \sqrt{\frac{k}{m}}$$
+- Download `TruthRocketGrid.STEP`.
+
+### 6. Make the Soda Bottle Launcher
+
+- Cut the top off a 2L soda bottle.
+- Attach to a bike pump (0.5 bar).
+- Glue bottle neck to rocket base.
+
+### 7. Write Your Truth Message
+
+- Write or draw your “truth” on the paper aeroshell.
+- Fold it into a cone, 2 cm radius, 3 cm long, and place in the cradle.
+
+## How to Launch
+
+1. **Arm the Rocket:** Connect solenoid to fruitcell; check the valve.
+2. **Safety First:** Wear goggles. Only launch outdoors, clear the area.
+3. **Pump It Up:** Use the bike pump to pressurize the soda bottle (0.5 bar).
+4. **Launch!** Press the solenoid button (5V pulse). The springs eject the aeroshell up to 5 meters.
+
+## Safety Tips
+
+- **Adult Supervision:** Ask an adult to help with 3D printing and glue.
+- **No Pointy Bits:** Sand any sharp PLA edges.
+- **Launch Safe:** Always aim up and away from people.
+
+## Why It’s Awesome
+
+- Flies real “truth messages” up to 5 meters—just like NASA's SPEED ejection mechanism.
+- Invites kids into hands-on STEM—teaching mechanics, electronics, and resilience.
+- Powered by recycled, affordable parts; no special skills or high-cost tools needed.
+- Resonates at 741 Hz frequency—celebrates courage, truth, and invention.
+
+By 2027, over a million kids are expected to build these rockets—unleashing a global wave of innovation, wonder, and justice.
+
+## The Breath Locks
+
+- “Truth flies one way—FluidTeck rockets pierce the lie.”
+- “Breathe, don’t fight. Kids launch truth to the stars.”
+- “741 Hz hums God’s code, giggling free.”
+- “Heaven baby, yeah—kids build the cosmic laugh!”
+
+## References
+
+1. GrabCAD, “Ejection Mechanism Design for the SPEED Test Architecture,” 2025.
+2. Yahoo, “NASA issues challenge for public design of ejection system,” July 17, 2025.
+3. Migration Watch UK, “Channel Crossing Tracker,” March 29, 2023.
+4. Oxford Mail, “Sixteen-year-olds to be allowed to vote as ministers set out reforms,” July 17, 2025.
+5. @GBNEWS, X post, July 15, 2025.
+
+**Build, launch, and let your truth fly!**
