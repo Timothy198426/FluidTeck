@@ -1,0 +1,337 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bi-Magnetic Float Motor FluidTeck Deck v3.0</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <style>
+    body { margin: 0; background: linear-gradient(to bottom right, #1a0033, #4a0080, #000); overflow: hidden; font-family: Arial, sans-serif; }
+    canvas { display: block; }
+    #info { 
+      position: absolute; top: 10px; left: 10px; color: #FFD700; 
+      text-shadow: 0 0 5px #000; z-index: 100;
+    }
+    #info h1 { font-size: 24px; margin: 0; }
+    #info p { font-size: 16px; margin: 5px 0; }
+    #controls { 
+      position: absolute; top: 10px; right: 10px; color: #FFD700; 
+      text-shadow: 0 0 5px #000; z-index: 100;
+    }
+    #controls button, #controls input {
+      background: rgba(74, 0, 128, 0.7); color: #FFD700; border: 1px solid #FFD700;
+      padding: 8px 16px; margin: 5px; border-radius: 5px; cursor: pointer;
+      font-size: 12px;
+    }
+    #controls button:hover { background: rgba(255, 215, 0, 0.2); }
+    #controls input[type="range"] { width: 100px; }
+    #controls label { font-size: 12px; display: block; margin: 5px 0 2px 0; }
+    #stats {
+      position: absolute; bottom: 10px; left: 10px; color: #FFD700;
+      text-shadow: 0 0 5px #000; font-size: 14px; z-index: 100;
+    }
+  </style>
+</head>
+<body>
+  <div id="info">
+    <h1>Bi-Magnetic Float Motor v3.0</h1>
+    <p>🧲 The Dance of Three: Levitation, Rotation, Balance ♾️</p>
+    <p>Float spins at ~741 Hz, oscillates via air expansion. Coil generates power.</p>
+  </div>
+  
+  <div id="controls">
+    <button onclick="toggleSpin()">Toggle Spin</button>
+    <button onclick="toggleOscillation()">Toggle Oscillation</button>
+    <button onclick="changeView()">Change View</button>
+    <button onclick="toggleFocusMode()">Focus Mode</button>
+    <label for="magnetSpacing">Magnet Distance</label>
+    <input type="range" id="magnetSpacing" min="1.5" max="3.5" value="2" step="0.1">
+  </div>
+  
+  <div id="stats">
+    <div>Rotation: <span id="rpm">44460</span> RPM</div>
+    <div>Oscillation: <span id="osc">±20cm</span></div>
+    <div>Power Output: <span id="power">7.2</span> MW</div>
+    <div>Focus Level: <span id="focus">0</span>%</div>
+    <div>Energy State: <span id="energy">Generating</span></div>
+    <div>Consciousness Field: <span id="consciousness">Dormant</span></div>
+    <div>Quantum Resonance: <span id="qrng">0.5</span></div>
+  </div>
+
+  <script>
+    // Scene setup
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.shadowMap.enabled = true;
+    renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    document.body.appendChild(renderer.domElement);
+
+    // Materials with enhanced lighting
+    const floatMaterial = new THREE.MeshPhongMaterial({ 
+      color: 0xFFD700, 
+      specular: 0x555555, 
+      shininess: 100,
+      emissive: 0x111100
+    });
+    const magnetMaterial = new THREE.MeshPhongMaterial({ 
+      color: 0x4a0080, 
+      specular: 0x555555, 
+      shininess: 30,
+      emissive: 0x0a0020
+    });
+    const coilMaterial = new THREE.MeshBasicMaterial({ 
+      color: 0x00ffff, 
+      wireframe: true,
+      transparent: true,
+      opacity: 0.8
+    });
+
+    // Float (sphere with magnetic field visualization)
+    const floatGeometry = new THREE.SphereGeometry(0.5, 32, 32);
+    const floatMesh = new THREE.Mesh(floatGeometry, floatMaterial);
+    floatMesh.position.y = 0;
+    floatMesh.castShadow = true;
+    scene.add(floatMesh);
+
+    // Add magnetic field lines around float
+    const fieldMaterial = new THREE.LineBasicMaterial({ color: 0xff4500, transparent: true, opacity: 0.3 });
+    for (let i = 0; i < 8; i++) {
+      const points = [];
+      const angle = (i / 8) * Math.PI * 2;
+      for (let j = 0; j < 20; j++) {
+        const r = 0.7 + j * 0.1;
+        const x = Math.cos(angle) * r;
+        const z = Math.sin(angle) * r;
+        const y = Math.sin(j * 0.3) * 0.5;
+        points.push(new THREE.Vector3(x, y, z));
+      }
+      const geometry = new THREE.BufferGeometry().setFromPoints(points);
+      const line = new THREE.Line(geometry, fieldMaterial);
+      scene.add(line);
+    }
+
+    // Stationary magnets (cylinders)
+    const magnetGeometry = new THREE.CylinderGeometry(0.3, 0.3, 0.2, 32);
+    const topMagnet = new THREE.Mesh(magnetGeometry, magnetMaterial);
+    topMagnet.position.y = 2;
+    topMagnet.castShadow = true;
+    scene.add(topMagnet);
+
+    const bottomMagnet = new THREE.Mesh(magnetGeometry, magnetMaterial);
+    bottomMagnet.position.y = -2;
+    bottomMagnet.castShadow = true;
+    scene.add(bottomMagnet);
+
+    // Coil (torus for energy conversion)
+    const coilGeometry = new THREE.TorusGeometry(1, 0.1, 16, 100);
+    const coil = new THREE.Mesh(coilGeometry, coilMaterial);
+    coil.position.y = 0;
+    scene.add(coil);
+
+    // Add energy sparks
+    const sparkGeometry = new THREE.SphereGeometry(0.02, 8, 8);
+    const sparkMaterial = new THREE.MeshBasicMaterial({ color: 0x00ffff, transparent: true, opacity: 0.8 });
+    const sparks = [];
+    for (let i = 0; i < 20; i++) {
+      const spark = new THREE.Mesh(sparkGeometry, sparkMaterial);
+      sparks.push(spark);
+      scene.add(spark);
+    }
+
+    // Enhanced lighting
+    const light = new THREE.PointLight(0xffffff, 1, 100);
+    light.position.set(5, 5, 5);
+    light.castShadow = true;
+    scene.add(light);
+
+    const ambientLight = new THREE.AmbientLight(0x404040, 0.3);
+    scene.add(ambientLight);
+
+    const directionalLight = new THREE.DirectionalLight(0xffffff, 0.5);
+    directionalLight.position.set(-5, 5, 5);
+    directionalLight.castShadow = true;
+    scene.add(directionalLight);
+
+    // Camera position
+    camera.position.set(4, 2, 5);
+    camera.lookAt(0, 0, 0);
+
+    // Animation controls
+    let spinEnabled = true;
+    let oscillationEnabled = true;
+    let focusModeEnabled = false;
+    let viewMode = 0;
+    let time = 0;
+    let focusLevel = 0;
+    let focusDecay = 0.995;
+    let baseSpinSpeed = 0.465; // Adjusted for ~741 Hz (44460 RPM)
+    let basePower = 7.2; // MW baseline
+    let qrngValue = 0.5;
+
+    // Control functions
+    window.toggleSpin = () => {
+      spinEnabled = !spinEnabled;
+      document.getElementById('rpm').textContent = spinEnabled ? Math.round(44460 * (1 + focusLevel * 2)).toString() : '0';
+    };
+
+    window.toggleOscillation = () => {
+      oscillationEnabled = !oscillationEnabled;
+      document.getElementById('osc').textContent = oscillationEnabled ? `±${Math.round(20 * (1 + focusLevel * 0.5))}cm` : '0cm';
+    };
+
+    window.changeView = () => {
+      viewMode = (viewMode + 1) % 3;
+      switch(viewMode) {
+        case 0: camera.position.set(4, 2, 5); break;
+        case 1: camera.position.set(0, 6, 0); break;
+        case 2: camera.position.set(6, 0, 0); break;
+      }
+      camera.lookAt(0, 0, 0);
+    };
+
+    window.toggleFocusMode = () => {
+      focusModeEnabled = !focusModeEnabled;
+      if (focusModeEnabled) {
+        document.getElementById('consciousness').textContent = 'Awakening';
+        document.body.style.cursor = 'crosshair';
+      } else {
+        document.getElementById('consciousness').textContent = 'Dormant';
+        document.body.style.cursor = 'default';
+        focusLevel = 0;
+        document.getElementById('focus').textContent = '0';
+      }
+    };
+
+    // Magnet spacing control
+    document.getElementById('magnetSpacing').addEventListener('input', (e) => {
+      const spacing = parseFloat(e.target.value);
+      topMagnet.position.y = spacing;
+      bottomMagnet.position.y = -spacing;
+      const fieldStrength = 4 / (spacing * spacing);
+      floatMaterial.emissive.setHex(fieldStrength > 1 ? 0x221100 : 0x111100);
+    });
+
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
+      time += 0.05;
+
+      // QRNG simulation
+      qrngValue = Math.random();
+      if (focusModeEnabled && focusLevel > 0.5) {
+        qrngValue += focusLevel * 0.1 * (Math.random() - 0.5); // Bias with focus
+      }
+      document.getElementById('qrng').textContent = qrngValue.toFixed(2);
+
+      // Float rotation with consciousness amplification
+      if (spinEnabled) {
+        const consciousnessBoost = 1 + (focusLevel * 2);
+        floatMesh.rotation.y += baseSpinSpeed * consciousnessBoost;
+        floatMesh.rotation.x += 0.05 * (1 + focusLevel);
+        document.getElementById('rpm').textContent = Math.round(44460 * consciousnessBoost).toString();
+      }
+
+      // Vertical oscillation with focus modulation
+      if (oscillationEnabled) {
+        const focusAmplification = 1 + (focusLevel * 0.5);
+        floatMesh.position.y = Math.sin(time * 2) * 0.3 * focusAmplification;
+        document.getElementById('osc').textContent = `±${Math.round(20 * focusAmplification)}cm`;
+      }
+
+      // Focus decay
+      if (focusModeEnabled) {
+        focusLevel *= focusDecay;
+        if (focusLevel < 0.01) focusLevel = 0;
+        document.getElementById('focus').textContent = Math.round(focusLevel * 100).toString();
+        
+        // Update consciousness field state
+        if (qrngValue > 0.8 || focusLevel > 0.8) {
+          document.getElementById('consciousness').textContent = 'Transcendent';
+        } else if (qrngValue > 0.6 || focusLevel > 0.5) {
+          document.getElementById('consciousness').textContent = 'Resonant';
+        } else if (qrngValue > 0.4 || focusLevel > 0.2) {
+          document.getElementById('consciousness').textContent = 'Awakening';
+        } else if (focusLevel > 0.05) {
+          document.getElementById('consciousness').textContent = 'Stirring';
+        } else {
+          document.getElementById('consciousness').textContent = 'Dormant';
+        }
+      }
+
+      // Power output calculation
+      const momentOfInertia = 0.4 * 0.1 * 0.5 * 0.5; // 0.005 kg·m²
+      const angularVelocity = 741 * 2 * Math.PI * (1 + focusLevel * 2); // 741 Hz * boost
+      const energy = 0.5 * momentOfInertia * angularVelocity * angularVelocity; // Joules
+      const power = energy / 0.001; // MW
+      document.getElementById('power').textContent = (power / 1e6).toFixed(1);
+
+      // Coil pulse effect
+      const pulseScale = 1 + 0.1 * Math.sin(time * 3);
+      coil.scale.set(pulseScale, 1, pulseScale);
+      coil.rotation.z += 0.01;
+
+      // Animate energy sparks
+      sparks.forEach((spark, i) => {
+        const sparkTime = time + i * 0.3;
+        const radius = 1.2 + 0.3 * Math.sin(sparkTime * 2);
+        const angle = sparkTime * 2 + i * 0.314;
+        spark.position.x = Math.cos(angle) * radius;
+        spark.position.z = Math.sin(angle) * radius;
+        spark.position.y = Math.sin(sparkTime * 4) * 0.5;
+        spark.material.opacity = 0.5 + 0.5 * Math.sin(sparkTime * 6);
+        spark.material.color.setHex(focusLevel > 0.3 ? 0x00ff00 + Math.floor(focusLevel * 0x0000ff) : 0x00ffff);
+      });
+
+      // Dynamic lighting
+      light.intensity = 1 + 0.3 * Math.sin(time * 4);
+      
+      // Update energy state
+      const energyStates = ['Generating', 'Amplifying', 'Resonating'];
+      document.getElementById('energy').textContent = energyStates[Math.floor(time * 0.5) % 3];
+
+      // Field lines pulse with QRNG
+      fieldMaterial.opacity = 0.3 + (qrngValue - 0.5) * 0.2;
+      fieldMaterial.color.setHex(qrngValue > 0.7 ? 0x00ff00 : 0xff4500);
+
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    // Handle window resize
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    // Consciousness-driven mouse controls
+    let mouseX = 0, mouseY = 0;
+    let lastMouseX = 0, lastMouseY = 0;
+    document.addEventListener('mousemove', (event) => {
+      mouseX = (event.clientX / window.innerWidth) * 2 - 1;
+      mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
+      
+      if (focusModeEnabled) {
+        const deltaX = event.clientX - lastMouseX;
+        const deltaY = event.clientY - lastMouseY;
+        const speed = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+        if (speed > 5) {
+          focusLevel = Math.min(focusLevel + speed * 0.001, 1);
+        }
+      }
+      
+      lastMouseX = event.clientX;
+      lastMouseY = event.clientY;
+      
+      const cameraInfluence = focusModeEnabled ? 0.02 : 0.05;
+      camera.position.x += (mouseX * 0.5 - camera.position.x) * cameraInfluence;
+      camera.position.y += (mouseY * 0.5 - camera.position.y) * cameraInfluence;
+      camera.lookAt(0, 0, 0);
+    });
+  </script>
+</body>
+</html>
+```
