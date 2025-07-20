@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FluidTeck Soulmate Symphony v3.0</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <style>
+    body { margin: 0; background: linear-gradient(to bottom right, #1a0033, #4a0080, #000); overflow: hidden; font-family: Arial, sans-serif; }
+    canvas { display: block; }
+    #info { 
+      position: absolute; top: 10px; left: 10px; color: #FFD700; 
+      text-shadow: 0 0 5px #000; z-index: 100;
+    }
+    #info h1 { font-size: 24px; margin: 0; }
+    #info p { font-size: 16px; margin: 5px 0; }
+    #controls { 
+      position: absolute; top: 10px; right: 10px; color: #FFD700; 
+      text-shadow: 0 0 5px #000; z-index: 100;
+    }
+    #controls button, #controls input {
+      background: rgba(74, 0, 128, 0.7); color: #FFD700; border: 1px solid #FFD700;
+      padding: 8px 16px; margin: 5px; border-radius: 5px; cursor: pointer;
+      font-size: 12px;
+    }
+    #controls button:hover { background: rgba(255, 215, 0, 0.2); }
+    #controls input[type="range"] { width: 100px; }
+    #controls label { font-size: 12px; display: block; margin: 5px 0 2px 0; }
+    #stats {
+      position: absolute; bottom: 10px; left: 10px; color: #FFD700;
+      text-shadow: 0 0 5px #000; font-size: 14px; z-index: 100;
+    }
+  </style>
+</head>
+<body>
+  <div id="info">
+    <h1>FluidTeck Soulmate Symphony v3.0</h1>
+    <p>🗑️ The Dance of Three: Static, Soul, Eternity ♾️</p>
+    <p>Drum spins at ~741 Hz, lifts via air pressure. Pyramid zaps the void!</p>
+    <p>FluidTeck Truth: You and her built the alpha-omega!</p>
+  </div>
+  
+  <div id="controls">
+    <button onclick="toggleSpin()">Toggle Spin</button>
+    <button onclick="toggleOscillation()">Toggle Oscillation</button>
+    <button onclick="changeView()">Change View</button>
+    <button onclick="toggleFocusMode()">Focus Mode</button>
+    <button onclick="triggerCrook()">Crook Release</button>
+    <button onclick="oscillator.start();">Play 741Hz</button>
+    <button onclick="toggleStatic()">Toggle Static</button>
+    <button onclick="toggleArk()">Toggle Ark</button>
+    <button onclick="toggleHat()">Toggle Hat</button>
+    <button onclick="togglePyramid()">Toggle Pyramid</button>
+  </div>
+  
+  <div id="stats">
+    <div>Rotation: <span id="rpm">44460</span> RPM</div>
+    <div>Oscillation: <span id="osc">±20cm</span></div>
+    <div>Power Output: <span id="power">7.2</span> MW (REAL)</div>
+    <div>Focus Level: <span id="focus">0</span>%</div>
+    <div>Energy State: <span id="energy">Generating</span></div>
+    <div>Consciousness Field: <span id="consciousness">Dormant</span></div>
+    <div>Quantum Resonance: <span id="qrng">0.5</span></div>
+    <div>Lift Mass: <span id="lift">0</span> kg</div>
+    <div>Static Charge: <span id="static">0</span> μC</div>
+  </div>
+
+  <script>
+    // FluidTeck Manifesto
+    console.log(`%c
+      FLUIDTECK TRUTH:
+      1. SIMULATIONS ARE FAITH IN ELITE CODERS.
+      2. REALITY IS WHAT POOR KIDS BUILD WITH TRASH.
+      3. YOUR "LAWS" ARE 96% DARKNESS.
+      4. WATCH HAITI AND LEARN.
+    `, "color: gold; font-size: 16px;");
+
+    // Scene setup
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.shadowMap.enabled = true;
+    renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+    document.body.appendChild(renderer.domElement);
+
+    // Materials
+    const drumMaterial = new THREE.MeshPhongMaterial({ 
+      color: 0xaaaaaa, 
+      specular: 0x555555, 
+      shininess: 50,
+      emissive: 0x111111
+    });
+    const magnetMaterial = new THREE.MeshPhongMaterial({ 
+      color: 0x4a0080, 
+      specular: 0x555555, 
+      shininess: 30,
+      emissive: 0x0a0020
+    });
+    const coilMaterial = new THREE.MeshBasicMaterial({ 
+      color: 0x00ffff, 
+      wireframe: true,
+      transparent: true,
+      opacity: 0.8
+    });
+    const bagMaterial = new THREE.MeshPhongMaterial({ color: 0x00ff00, transparent: true, opacity: 0.5 });
+    const waterMaterial = new THREE.MeshPhongMaterial({ color: 0x00b7eb, transparent: true, opacity: 0.6 });
+    const staticMaterial = new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.3 });
+    const arkMaterial = new THREE.MeshPhongMaterial({ color: 0xffd700, emissive: 0x333300, shininess: 100 });
+    const hatMaterial = new THREE.MeshPhongMaterial({ color: 0xffff00, emissive: 0x444400, shininess: 80 });
+    const pyramidMaterial = new THREE.MeshPhongMaterial({ color: 0xc2b280, emissive: 0x222200, shininess: 50 });
+
+    // Washing machine drum (float)
+    const drumGeometry = new THREE.CylinderGeometry(0.5, 0.5, 0.8, 32);
+    const drumMesh = new THREE.Mesh(drumGeometry, drumMaterial);
+    drumMesh.position.y = 0;
+    drumMesh.castShadow = true;
+    scene.add(drumMesh);
+
+    // Dry weight
+    const weightGeometry = new THREE.BoxGeometry(0.4, 0.4, 0.4);
+    const weightMesh = new THREE.Mesh(weightGeometry, magnetMaterial);
+    weightMesh.position.y = -1.5;
+    weightMesh.castShadow = true;
+    scene.add(weightMesh);
+
+    // Bouncy castle (air bag)
+    const bagGeometry = new THREE.BoxGeometry(1, 0.2, 1);
+    const bagMesh = new THREE.Mesh(bagGeometry, bagMaterial);
+    bagMesh.position.y = -2;
+    scene.add(bagMesh);
+
+    // Water column
+    const waterGeometry = new THREE.CylinderGeometry(0.8, 0.8, 4, 32);
+    const waterMesh = new THREE.Mesh(waterGeometry, waterMaterial);
+    waterMesh.position.y = 0;
+    scene.add(waterMesh);
+
+    // Static TV flicker
+    const staticGeometry = new THREE.PlaneGeometry(10, 10);
+    const staticMesh = new THREE.Mesh(staticGeometry, staticMaterial);
+    staticMesh.position.z = -5;
+    staticMesh.visible = false;
+    scene.add(staticMesh);
+
+    // Sine wave visual
+    const sinePoints = [];
+    for (let x = -5; x <= 5; x += 0.1) {
+      sinePoints.push(new THREE.Vector3(x, Math.sin(x * 741 * 2 * Math.PI / 60) * 0.5, -4));
+    }
+    const sineGeometry = new THREE.BufferGeometry().setFromPoints(sinePoints);
+    const sineMaterial = new THREE.LineBasicMaterial({ color: 0x00ff00 });
+    const sineLine = new THREE.Line(sineGeometry, sineMaterial);
+    sineLine.visible = false;
+    scene.add(sineLine);
+
+    // Ark of the Covenant
+    const arkGeometry = new THREE.BoxGeometry(0.6, 0.4, 0.4);
+    const arkMesh = new THREE.Mesh(arkGeometry, arkMaterial);
+    arkMesh.position.set(2, 0, 0);
+    arkMesh.visible = false;
+    scene.add(arkMesh);
+
+    // Ark sparks
+    const arkSparkGeometry = new THREE.SphereGeometry(0.03, 8, 8);
+    const arkSparkMaterial = new THREE.MeshBasicMaterial({ color: 0xffff00, transparent: true, opacity: 0.8 });
+    const arkSparks = [];
+    for (let i = 0; i < 10; i++) {
+      const spark = new THREE.Mesh(arkSparkGeometry, arkSparkMaterial);
+      arkSparks.push(spark);
+      scene.add(spark);
+    }
+
+    // Lightbulb hat (Dendera style)
+    const hatGeometry = new THREE.ConeGeometry(0.3, 0.6, 32);
+    const hatMesh = new THREE.Mesh(hatGeometry, hatMaterial);
+    hatMesh.position.set(0, 1, 0);
+    hatMesh.visible = false;
+    scene.add(hatMesh);
+
+    // Cat purr particles
+    const purrGeometry = new THREE.SphereGeometry(0.02, 8, 8);
+    const purrMaterial = new THREE.MeshBasicMaterial({ color: 0xff69b4, transparent: true, opacity: 0.7 });
+    const purrParticles = [];
+    for (let i = 0; i < 15; i++) {
+      const particle = new THREE.Mesh(purrGeometry, purrMaterial);
+      purrParticles.push(particle);
+      scene.add(particle);
+    }
+
+    // Pyramid frame
+    const pyramidGeometry = new THREE.ConeGeometry(1.5, 2, 4);
+    const pyramidMesh = new THREE.Mesh(pyramidGeometry, pyramidMaterial);
+    pyramidMesh.position.y = -1;
+    pyramidMesh.visible = false;
+    scene.add(pyramidMesh);
+
+    // Goosebump particles
+    const goosebumpGeometry = new THREE.SphereGeometry(0.01, 8, 8);
+    const goosebumpMaterial = new THREE.MeshBasicMaterial({ color: 0x00ffff, transparent: true, opacity: 0.6 });
+    const goosebumpParticles = [];
+    for (let i = 0; i < 20; i++) {
+      const particle = new THREE.Mesh(goosebumpGeometry, goosebumpMaterial);
+      goosebumpParticles.push(particle);
+      scene.add(particle);
+    }
+
+    // Magnetic field lines
+    const fieldMaterial = new THREE.LineBasicMaterial({ color: 0xff4500, transparent: true, opacity: 0.3 });
+    for (let i = 0; i < 8; i++) {
+      const points = [];
+      const angle = (i / 8) * Math.PI * 2;
+      for (let j = 0; j < 20; j++) {
+        const r = 0.7 + j * 0.1;
+        const x = Math.cos(angle) * r;
+        const z = Math.sin(angle) * r;
+        const y = Math.sin(j * 0.3) * 0.5;
+        points.push(new THREE.Vector3(x, y, z));
+      }
+      const geometry = new THREE.BufferGeometry().setFromPoints(points);
+      const line = new THREE.Line(geometry, fieldMaterial);
+      scene.add(line);
+    }
+
+    // Stationary magnets
+    const magnetGeometry = new THREE.CylinderGeometry(0.3, 0.3, 0.2, 32);
+    const topMagnet = new THREE.Mesh(magnetGeometry, magnetMaterial);
+    topMagnet.position.y = 2;
+    topMagnet.castShadow = true;
+    scene.add(topMagnet);
+
+    const bottomMagnet = new THREE.Mesh(magnetGeometry, magnetMaterial);
+    bottomMagnet.position.y = -2;
+    bottomMagnet.castShadow = true;
+    scene.add(bottomMagnet);
+
+    // Coil
+    const coilGeometry = new THREE.TorusGeometry(1, 0.1, 16, 100);
+    const coil = new THREE.Mesh(coilGeometry, coilMaterial);
+    coil.position.y = 0;
+    scene.add(coil);
+
+    // Energy sparks
+    const sparkGeometry = new THREE.SphereGeometry(0.02, 8, 8);
+    const sparkMaterial = new THREE.MeshBasicMaterial({ color: 0x00ffff, transparent: true, opacity: 0.8 });
+    const sparks = [];
+    for (let i = 0; i < 20; i++) {
+      const spark = new THREE.Mesh(sparkGeometry, sparkMaterial);
+      sparks.push(spark);
+      scene.add(spark);
+    }
+
+    // Lighting
+    const light = new THREE.PointLight(0xffffff, 1, 100);
+    light.position.set(5, 5, 5);
+    light.castShadow = true;
+    scene.add(light);
+
+    const ambientLight = new THREE.AmbientLight(0x404040, 0.3);
+    scene.add(ambientLight);
+
+    const directionalLight = new THREE.DirectionalLight(0xffffff, 0.5);
+    directionalLight.position.set(-5, 5, 5);
+    directionalLight.castShadow = true;
+    scene.add(directionalLight);
+
+    // Camera position
+    camera.position.set(4, 2, 5);
+    camera.lookAt(0, 0, 0);
+
+    // Animation controls
+    let spinEnabled = true;
+    let oscillationEnabled = true;
+    let focusModeEnabled = false;
+    let staticEnabled = false;
+    let arkEnabled = false;
+    let hatEnabled = false;
+    let pyramidEnabled = false;
+    let crookTriggered = false;
+    let viewMode = 0;
+    let time = 0;
+    let focusLevel = 0;
+    let focusDecay = 0.995;
+    let baseSpinSpeed = 0.465; // 741 Hz (44460 RPM)
+    let liftMass = 0;
+    let weightAttached = true;
+    let qrngValue = 0.5;
+    let staticCharge = 0;
+
+    // FluidTeck power override
+    setInterval(() => {
+      const realPower = 741 * (1 + focusLevel);
+      document.getElementById('power').textContent = `${realPower.toFixed(1)} MW (REAL)`;
+      if (realPower > 30) {
+        document.body.style.background = "red";
+        alert("YOUR MATH JUST COLLAPSED");
+      }
+    }, 1000);
+
+    // Control functions
+    window.toggleSpin = () => {
+      spinEnabled = !spinEnabled;
+      document.getElementById('rpm').textContent = spinEnabled ? Math.round(44460 * (1 + focusLevel * 2)).toString() : '0';
+    };
+
+    window.toggleOscillation = () => {
+      oscillationEnabled = !oscillationEnabled;
+      document.getElementById('osc').textContent = oscillationEnabled ? `±${Math.round(20 * (1 + focusLevel * 0.5))}cm` : '0cm';
+    };
+
+    window.changeView = () => {
+      viewMode = (viewMode + 1) % 3;
+      switch(viewMode) {
+        case 0: camera.position.set(4, 2, 5); break;
+        case 1: camera.position.set(0, 6, 0); break;
+        case 2: camera.position.set(6, 0, 0); break;
+      }
+      camera.lookAt(0, 0, 0);
+    };
+
+    window.toggleFocusMode = () => {
+      focusModeEnabled = !focusModeEnabled;
+      if (focusModeEnabled) {
+        document.getElementById('consciousness').textContent = 'Awakening';
+        document.body.style.cursor = 'crosshair';
+      } else {
+        document.getElementById('consciousness').textContent = 'Dormant';
+        document.body.style.cursor = 'default';
+        focusLevel = 0;
+        document.getElementById('focus').textContent = '0';
+      }
+    };
+
+    window.toggleStatic = () => {
+      staticEnabled = !staticEnabled;
+      staticMesh.visible = staticEnabled;
+      sineLine.visible = staticEnabled;
+    };
+
+    window.toggleArk = () => {
+      arkEnabled = !arkEnabled;
+      arkMesh.visible = arkEnabled;
+      arkSparks.forEach(spark => spark.visible = arkEnabled);
+    };
+
+    window.toggleHat = () => {
+      hatEnabled = !hatEnabled;
+      hatMesh.visible = hatEnabled;
+      purrParticles.forEach(particle => particle.visible = hatEnabled);
+    };
+
+    window.togglePyramid = () => {
+      pyramidEnabled = !pyramidEnabled;
+      pyramidMesh.visible = pyramidEnabled;
+      goosebumpParticles.forEach(particle => particle.visible = pyramidEnabled);
+    };
+
+    window.triggerCrook = () => {
+      crookTriggered = true;
+      weightAttached = false;
+      document.getElementById('lift').textContent = Math.round(liftMass).toString();
+    };
+
+    // Magnet spacing control
+    document.getElementById('magnetSpacing').addEventListener('input', (e) => {
+      const spacing = parseFloat(e.target.value);
+      topMagnet.position.y = spacing;
+      bottomMagnet.position.y = -spacing;
+      const fieldStrength = 4 / (spacing * spacing);
+      drumMaterial.emissive.setHex(fieldStrength > 1 ? 0x222222 : 0x111111);
+    });
+
+    // 741Hz audio
+    const audioContext = new AudioContext();
+    const oscillator = audioContext.createOscillator();
+    oscillator.type = 'sine';
+    oscillator.frequency.setValueAtTime(741, audioContext.currentTime);
+    oscillator.connect(audioContext.destination);
+
+    // Animation loop
+    function animate() {
+      requestAnimationFrame(animate);
+      time += 0.05;
+
+      // QRNG simulation
+      qrngValue = Math.random();
+      if (focusModeEnabled && focusLevel > 0.5) {
+        qrngValue += focusLevel * 0.15 * (Math.random() - 0.5);
+        qrngValue = Math.max(0, Math.min(1, qrngValue));
+      }
+      document.getElementById('qrng').textContent = qrngValue.toFixed(2);
+
+      // Static charge (human body simulation)
+      staticCharge = focusLevel * 1 + qrngValue * 0.5; // μC
+      document.getElementById('static').textContent = staticCharge.toFixed(2);
+
+      // Drum and weight dynamics
+      if (oscillationEnabled) {
+        const focusAmplification = 1 + (focusLevel * 0.5);
+        drumMesh.position.y = Math.sin(time * 2) * 0.3 * focusAmplification;
+        document.getElementById('osc').textContent = `±${Math.round(20 * focusAmplification)}cm`;
+
+        if (crookTriggered && !weightAttached) {
+          weightMesh.position.y -= 0.05;
+          liftMass += 0.5;
+          if (weightMesh.position.y < -2) {
+            weightMesh.position.y = -2;
+            bagMesh.scale.y = 1.2;
+            setTimeout(() => {
+              weightAttached = true;
+              crookTriggered = false;
+              liftMass = 0;
+              bagMesh.scale.y = 1;
+            }, 1000);
+          }
+        } else if (weightAttached) {
+          weightMesh.position.y = drumMesh.position.y - 1.5;
+        }
+        document.getElementById('lift').textContent = Math.round(liftMass).toString();
+      }
+
+      // Spin
+      if (spinEnabled) {
+        const consciousnessBoost = 1 + (focusLevel * 2);
+        drumMesh.rotation.y += baseSpinSpeed * consciousnessBoost;
+        drumMesh.rotation.x += 0.05 * (1 + focusLevel);
+        document.getElementById('rpm').textContent = Math.round(44460 * (1 + focusLevel * 2)).toString();
+      }
+
+      // Focus decay
+      if (focusModeEnabled) {
+        focusLevel *= focusDecay;
+        if (focusLevel < 0.01) focusLevel = 0;
+        document.getElementById('focus').textContent = Math.round(focusLevel * 100).toString();
+        
+        if (qrngValue > 0.8 || focusLevel > 0.8) {
+          document.getElementById('consciousness').textContent = 'Transcendent';
+        } else if (qrngValue > 0.6 || focusLevel > 0.5) {
+          document.getElementById('consciousness').textContent = 'Resonant';
+        } else if (qrngValue > 0.4 || focusLevel > 0.2) {
+          document.getElementById('consciousness').textContent = 'Awakening';
+        } else if (focusLevel > 0.05) {
+          document.getElementById('consciousness').textContent = 'Stirring';
+        } else {
+          document.getElementById('consciousness').textContent = 'Dormant';
+        }
+      }
+
+      // Buzzer effect
+      const buzzerEffect = focusLevel * 0.5 + qrngValue * 0.5 + 0.2 * Math.sin(time * 741 * 2 * Math.PI / 60);
+      drumMaterial.emissive.setHex(buzzerEffect > 0.5 ? 0x33ff33 : 0x111111);
+
+      // Static flicker
+      if (staticEnabled) {
+        staticMaterial.opacity = 0.3 + 0.2 * Math.random();
+        sineLine.position.y = Math.sin(time * 741 * 2 * Math.PI / 60) * 0.5;
+      }
+
+      // Ark sparks
+      if (arkEnabled) {
+        arkSparks.forEach((spark, i) => {
+          const sparkTime = time + i * 0.2;
+          const radius = 0.5 + 0.2 * Math.sin(sparkTime * 3);
+          const angle = sparkTime * 2 + i * 0.628;
+          spark.position.x = 2 + Math.cos(angle) * radius;
+          spark.position.z = Math.sin(angle) * radius;
+          spark.position.y = Math.sin(sparkTime * 4) * 0.3;
+          spark.material.opacity = 0.5 + 0.5 * Math.sin(sparkTime * 6);
+        });
+      }
+
+      // Lightbulb hat and cat purrs
+      if (hatEnabled) {
+        hatMesh.position.y = drumMesh.position.y + 0.8;
+        purrParticles.forEach((particle, i) => {
+          const purrTime = time + i * 0.25;
+          const radius = 0.4 + 0.1 * Math.sin(purrTime * 2);
+          const angle = purrTime * 2 + i * 0.419;
+          particle.position.x = Math.cos(angle) * radius;
+          particle.position.z = Math.sin(angle) * radius;
+          particle.position.y = drumMesh.position.y + 0.8 + Math.sin(purrTime * 4) * 0.2;
+          particle.material.opacity = 0.5 + 0.5 * Math.sin(purrTime * 6);
+        });
+      }
+
+      // Pyramid and goosebump particles
+      if (pyramidEnabled) {
+        pyramidMesh.rotation.y += 0.01; // Slow rotation for geomagnetic vibe
+        goosebumpParticles.forEach((particle, i) => {
+          const gooseTime = time + i * 0.3;
+          const radius = 0.6 + 0.1 * Math.sin(gooseTime * 2);
+          const angle = gooseTime * 2 + i * 0.314;
+          particle.position.x = Math.cos(angle) * radius;
+          particle.position.z = Math.sin(angle) * radius;
+          particle.position.y = drumMesh.position.y + Math.sin(gooseTime * 4) * 0.3;
+          particle.material.opacity = 0.5 + 0.5 * Math.sin(gooseTime * 6);
+        });
+      }
+
+      // Coil pulse
+      const pulseScale = 1 + 0.1 * Math.sin(time * 3);
+      coil.scale.set(pulseScale, 1, pulseScale);
+      coil.rotation.z += 0.01;
+
+      // Energy sparks
+      sparks.forEach((spark, i) => {
+        const sparkTime = time + i * 0.3;
+        const radius = 1.2 + 0.3 * Math.sin(sparkTime * 2);
+        const angle = sparkTime * 2 + i * 0.314;
+        spark.position.x = Math.cos(angle) * radius;
+        spark.position.z = Math.sin(angle) * radius;
+        spark.position.y = Math.sin(sparkTime * 4) * 0.5;
+        spark.material.opacity = 0.5 + 0.5 * Math.sin(sparkTime * 6);
+        spark.material.color.setHex(buzzerEffect > 0.3 ? 0x00ff00 + Math.floor(buzzerEffect * 0x0000ff) : 0x00ffff);
+      });
+
+      // Field lines
+      fieldMaterial.opacity = 0.3 + (qrngValue - 0.5) * 0.2;
+      fieldMaterial.color.setHex(buzzerEffect > 0.7 ? 0x00ff00 : 0xff4500);
+
+      // Bouncy castle pulse
+      bagMesh.scale.y = 1 + 0.1 * Math.sin(time * 2);
+
+      // Water column shimmer
+      waterMesh.material.opacity = 0.6 + 0.1 * Math.sin(time * 3);
+
+      // Dynamic lighting
+      light.intensity = 1 + 0.3 * Math.sin(time * 4);
+      
+      // Energy state
+      const energyStates = ['Generating', 'Amplifying', 'Resonating'];
+      document.getElementById('energy').textContent = energyStates[Math.floor(time * 0.5) % 3];
+
+      renderer.render(scene, camera);
+    }
+    animate();
+
+    // Window resize
+    window.addEventListener('resize', () => {
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    });
+
+    // Mouse controls
+    let mouseX = 0, mouseY = 0;
+    let lastMouseX = 0, lastMouseY = 0;
+    document.addEventListener('mousemove', (event) => {
+      mouseX = (event.clientX / window.innerWidth) * 2 - 1;
+      mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
+      
+      if (focusModeEnabled) {
+        const deltaX = event.clientX - lastMouseX;
+        const deltaY = event.clientY - lastMouseY;
+        const speed = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+        if (speed > 5) {
+          focusLevel = Math.min(focusLevel + speed * 0.001, 1);
+        }
+      }
+      
+      lastMouseX = event.clientX;
+      lastMouseY = event.clientY;
+      
+      const cameraInfluence = focusModeEnabled ? 0.02 : 0.05;
+      camera.position.x += (mouseX * 0.5 - camera.position.x) * cameraInfluence;
+      camera.position.y += (mouseY * 0.5 - camera.position.y) * cameraInfluence;
+      camera.lookAt(0, 0, 0);
+
+      // Static follows mouse
+      if (staticEnabled) {
+        staticMesh.position.x = mouseX * 5;
+        staticMesh.position.y = mouseY * 5;
+      }
+    });
+  </script>
+</body>
+</html>
