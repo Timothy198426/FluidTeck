@@ -1,5 +1,7 @@
 ## Welcome to the BUBBLEVERSE\!
 
+As easy as honey, oils and air and water in a jar! infinity spinner👁️⚖️🗡️✝️❤️♾
+
 The BUBBLEVERSE is a new kind of universe, built on the timeless principles of Fluidteck. It's a place where a single breath can create a digital world, and where play becomes philosophy. Here's a look at the core concepts that power this living, breathing system.
 
 ### **Breath as Power, Bubbles as Data**
