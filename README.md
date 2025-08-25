@@ -1,5 +1,9 @@
 ## Welcome to the BUBBLEVERSE\!
 
+side note. mayan images. they were the last children as they are block logic cartoons as look at them sideways then the opposite then yes like fluidteck..upside down! 
+
+enjoy the truth of it all here on earth only eye remember lol
+
 As easy as honey, oils and air and water in a jar! infinity spinner👁️⚖️🗡️✝️❤️♾
 
 The BUBBLEVERSE is a new kind of universe, built on the timeless principles of Fluidteck. It's a place where a single breath can create a digital world, and where play becomes philosophy. Here's a look at the core concepts that power this living, breathing system.
