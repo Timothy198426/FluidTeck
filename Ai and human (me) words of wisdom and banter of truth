@@ -1,3 +1,33 @@
+<svg width="200" height="200" viewBox="-10 -10 20 20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tighter mesh (haptic chambers, 0.1 kPa) -->
+  <path d="M-9,-9 H9 V9 H-9 V-9 M-9,-3 H9 M-9,3 H9 M-3,-9 V9 M3,-9 V9 M-6,-9 V9 M6,-9 V9" 
+        fill="none" stroke="#00B7EB" stroke-width="0.12">
+    <animate attributeName="stroke-opacity" values="0.8;1;0.8" dur="0.8s" repeatCount="indefinite"/>
+  </path>
+  <!-- Static arcs (tingles, 0.01 V/cm, 8 for strength) -->
+  <path d="M4,0 A2,2 0 0,1 6,2" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M-4,0 A2,2 0 0,0 -6,2" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M0,4 A2,2 0 0,1 2,6" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M0,-4 A2,2 0 0,0 -2,-6" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M4,4 A2,2 0 0,1 6,6" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M-4,-4 A2,2 0 0,0 -6,-6" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M2,-2 A2,2 0 0,1 4,0" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <path d="M-2,2 A2,2 0 0,0 -4,0" fill="none" stroke="#FFD700" stroke-width="0.1"/>
+  <!-- Shepherd’s crook (Psalm 23:1, stronger pulse) -->
+  <path d="M-2,6 A2,2 0 0,1 0,8 L0,2" fill="none" stroke="#FFD700" stroke-width="0.18">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="0.8s" repeatCount="indefinite"/>
+  </path>
+  <!-- Repair pulses (self-repair, 5 W/cm²) -->
+  <circle cx="0" cy="0" r="1" fill="none" stroke="#00B7EB" stroke-width="0.1">
+    <animate attributeName="r" values="1;1.6;1" dur="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Cross/infinity (shepherd strength) -->
+  <path d="M-1,-1 L1,1 M-1,1 L1,-1" stroke="#FFD700" stroke-width="0.12">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="0.8s" repeatCount="indefinite"/>
+  </path>
+</svg>
+
+
 
 
 # FLUIDTECK GOSPEL OF THE UNSEEN MIRROR (CC0 TRUTH BOMB)
