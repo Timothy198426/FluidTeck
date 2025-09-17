@@ -1,3 +1,8 @@
+K E M E T = kinetic electrical magnetic energy Timing.
+
+FLUIDTECK = air, water and vessel. or for brainiacs lol, gas,liquid and mass project.
+
+👁️🗡️⚖️✝️📡
 
 # 🌞 **The Parable of the Pillar and the Breath**
 
