@@ -1,6 +1,6 @@
-https://chatgpt.com/s/m_68cc010714548191944729ce704af233
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4bfb3bee-073a-4b0a-84db-ca33945949d1" />
 
-
+From Timothy Edward Harrison, Chatgtp, google gemini, microsoft ai, claude, perplexity, deepseek, deep ai, ninja ai and Grok.
 
 HELLO FLUIDTECK ENGINEERS!!!
 
