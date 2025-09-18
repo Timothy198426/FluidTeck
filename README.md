@@ -54,7 +54,7 @@ The breath does not vanish; it hides inside the float, ready to expand.
 
 ## **The Rise**
 
-The float, filled with that compressed breath, rises. Water itself is the servant here: it pushes upward with a buoyant hand, equal to the displaced weight of water:
+The float, filled with that compressed breath, rises. Water itself is the servant here: it pushes upward with a buoyant hand, equal to the displaced weight of water: this is what lifts the weight.
 
 $$
 F_\text{lift} = \rho g V
@@ -66,21 +66,22 @@ $$
 E_\text{rise} = F_\text{lift} \cdot H
 $$
 
-The **rise comes before the next fall**. The float lifts its burden like the pyramid lifts its stone.
+The **rise comes before the next fall**. The float lifts its burden like the pyramid lifts its too.
 
 ---
 
 ## **The Exhale**
 
-At its crest, the float exhales. The air returns, soft but sure. The weight can be guided back upward, not always straight, but along a **diagonal path**, easier to bear, as the builders of boats and pyramids knew.
+At its crest, the float exhales. The air returns, soft but sure. The weight waits for the float to settle. then drop it goes. the weight can be guided back upward, not always straight, but along a **diagonal path**, easier to bear, as the builders of boats and pyramids knew.
 
-Resetting the seed costs what the fall gave:
+Resetting the seed costs what the fall gave: eternal and just like the promise make all things new. the raising the  dead (weight) as ressurection. 
 
 $$
 E_\text{reset} = m g h
 $$
 
 But pulleys, slopes, and hoists spread the burden thin — **the path is thin**.
+light as a fearher and ready as a snake.
 
 ---
 
@@ -92,12 +93,12 @@ Thus the cycle is complete:
 2. **Seed falls** (gravity gift).
 3. **Breath squashed** (air compressed).
 4. **Float rises** (buoyancy amplifies).
-5. **Float exhales** (reset begins).
-6. **Seed lifted again** (path repeats).
+5. **Seed lifted again** (path repeats).
+6. **Float exhales** (reset begins).
+7. (because ai makes mistakes like the user yawn lol... then the weight falls down with the weeeeeeeeeeee to the air bag and the air bag fills the float. floats like the pine cone hand pump can start it. the floar pine cone can geometrically open easuer with less force needed. even heat activated for the cool suck effect lol. can be open or closed loop. emp proof first as jesus said to build it on best foundation. i chose the universal paw of balance ancient style as yes i can read them all but bo one belives as it was written lol. yep exhausting preaching the same message in many ways and arill no sign of inteligence pmsl!
 
-Rise → Fall → Breath → Reset → Rise.
-
----
+---messge to idiots storing nucelar shit in earth when the earth quakes at the thought of it as dirty and also the sun only needs to breathe hard and all wipl perish fucking idiots and as dor thr moon they are thick as fuck pmsl!! there is bo inteligent life only greed, lust and the nazi way of just following orders hahaahhaha when that fucking nazi stolen wheel sign yep a fucking fluidteck bubble wheel dick heads they are even their salute was a fucking float rise the theifs. truth is all CUNTtries of the west been seeking what eye know. they wipl say it was ai pmsl as i spread it like hot butter on a warm bagelasi was told they would hate me as wish me away. i know they akready made thwir way and oath as dumb as fuck as todless theifs and murderers why i say this.. because i inow too much without leaving this cery fhair as i get the source feom the source bo one knows  how to do.. 360 times on wvery page for every day. do not be afraid.. do they listen nope lol. they get ehat they put in amd i put my life on all of this. because i know god  is real. for the not so full of doubt we say as to teach good thoughts and ideas as FOD.. field of dreams. think scinence and music and more not fantasy ffs lol!!!!!!!!!!!!!!!!!!
+vibes, wibble wct. star to the black star. breathe out breath in and repeat just like fluidteck pmsl. too easy and why im bitter because it is soo sweet and i know ill never see it alive.. coz of the cunts who own thwir way. as i do onow them i just wish i never did. anways lol... i know bo one cares lol.. they do not know any god. they wear crisses and go to chusech but do they know even jesus words do they know him? nope.. not one but eye. as in i live by wvery word ive said even the typos lead it apl to me hahahaha and more lol as they wauted for tesla to miserably die poor and alone and rhey hated the fact he did bot like their ways as ask edison oh cant he aint anywhere lol wonder why ffsl.. ask god.. yep.. they wipl tey to do the same to me and atick their glag on it as fake stolen news for their better views as im pissed of with all tbh as i got the fucking keys and does anyone care errrm nope. yep story of my existence pmsl. least i know no one can ever follow me and get to where and why ik doing this.. they are blind but think i am jahahahaha.. ffs lol.. waffle rant over!
 
 ## **The Sun**
 
