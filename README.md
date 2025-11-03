@@ -1,3 +1,5 @@
+THE BY BALL THE BIBLE THE BAY BELL THE BUBBLE THE BOBBLE LOL.. the whole BABBLE .. 👁️⚖️🗡️✝️🕊️
+
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4bfb3bee-073a-4b0a-84db-ca33945949d1" />
 
 
