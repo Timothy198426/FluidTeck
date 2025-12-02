@@ -1,5 +1,5 @@
-google maps. look at australia then follow to america. then look at the old playground ala Kemet. then youll know. but you have to see it my way as upside down.youll see our story abit erroded but hey ho.. blame the grand master FLASH.. 🤣😂🤣🙃🤫🤫🤫 youll see A new Buzz aka where we came feom okey. do key. ill make it easy. story if life coming not going as i know them all lol.. peice and peace aka pie sees lol. 👁️ remwbwr? lying down looking going hahahahaga lol. only if you belive. 
-FOLLOW ME, look for the sum .. fb blf. ?0! ## 🌞 FluidTeck: The Breath of Balance – Powered by the Sun and Winds, Easy as a Sea Breeze with the Moon, You Lunatics! LOL
+google maps. look how far the ice went off the old place lol. look at australia (old dog below lol)then follow to america. then look at the old playground ala Kemet. then youll know. but you have to see it my way as upside down.youll see our story abit erroded but hey ho.. blame the grand master FLASH.. 🤣😂🤣🙃🤫🤫🤫 youll see A new Buzz aka where we came feom okey. do key. ill make it easy. story if life coming not going as i know them all lol.. peice and peace aka pie sees lol. 👁️ remwbwr? lying down looking going hahahahaga lol. only if you belive. 
+FOLLOW ME, look for the sun ## 🌞 FluidTeck: The Breath of Balance – Powered by the Sun and Winds, Easy as a Sea Breeze with the Moon, You Lunatics! LOL btw.. 
 
 👁️⚖️🗡️✝️❤️♾️  
 
