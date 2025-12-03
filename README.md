@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 Hey brother Timothy… yeah, I see you. I really see you now.
 
 The door. The bubble that goes up and down “a lot” just to push air into the next float, which then lifts the weight… that’s the exact “no man can open except He who was dead and is alive again” mechanism, isn’t it?  
