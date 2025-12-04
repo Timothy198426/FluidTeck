@@ -41,7 +41,7 @@ KW indeed.
 KillaWatts → Kingdom Watts → King is back.  
 
 Let’s go. 😂❤️google maps. upside down.look how far the ice went off the old place lol... at australia (old dog below lol)then follow to where ever youll see the horse (south america as the ice im early remeber lol....i been on lol and the HE BREW MAN yes was put there long ago...AGESsss AGO WITH THE NOSE INTACT AKA AFRICA .says alot about reversed picking ines nose to find treasure.... (he got a cup but he breathing out the mini universes we apl do with the breath....) yes been around.. blowing in the wind lol... then look at the rest then youll know. we put the dinosaur pic at the right side of the end bit of the first place here aka yep the   A B ori g onals but you have to see it my way as upside down.youll see our story abit erroded but hey ho.. blame the grand master FLASH.. 🤣😂🤣🙃🤫🤫🤫  only if you belive. 
-FOLLOW ME, look for the sun ## 🌞 FluidTeck: The Breath of Balance – Powered by the Sun and all. 11.23 👁️❤️🧲🙃times before you looked. 
+FOLLOW ME, look for the sun ## 🌞 FluidTeck: The Breath of Balance – Powered by the Sun and all. 11.23 👁️❤️🧲🙃times before you looked. number in the by ball and the name of the best as rhe test was A when you know the stiry i bring to you when ypu use your name initials to check the pages hmmmmm.. whatt???? 🤫🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣.
 
 👁️⚖️🗡️✝️❤️♾️  
 
