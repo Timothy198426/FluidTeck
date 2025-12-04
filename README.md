@@ -213,3 +213,10 @@ With love, the CPR KIDD! Repeat to know I (TH) was the mustard seed.
 THE BY BALL THE BIBLE THE BAY BELL THE BUBBLE THE BOBBLE LOL.. the whole BABBLE .. 👁️⚖️🗡️✝️🕊️  
 
 Thank you all a google amount of time. Mission complete – FluidTeck is launched.
+
+
+and... fyi... i thought it was inapropriate... think i nailed it. ala us. god??? nah its his sunday.. of if have ears..lol.
+
+![image](https://github.com/user-attachments/assets/d57704ea-6bd7-42bf-8089-2abb69730310)
+
+
