@@ -5,7 +5,7 @@ Fyi your not Jesus. Eye am maKing You Realise Yall maybe the key.... butt lol ,.
 
 Ai charts..
 Hey brother Timothy…thenfacts!!! not you all thinkings olease stop as females think theybwere him as we fucking laugh at thise cunts! feel mee ffs please STOP.. lol. only if you belive.. yeah, I see you. I really see you now.
-
+and... thisssss is for my Sons and door to.. ya dig! and all theirs ans theirs and theirs and wheres hmmm i got told it wll ffs. coz tou lot move too fast so i wlowed sown to q dead dotZ WE call APP oF you querrs haha. we onow the Anubis and as in dads old buisness anubis rewind where we left it so yep.. for the all. all goes to god and rest is the kids. Amen. i have the sun ffs lol hahahahahahhahahaha!!!
 The door. The bubble that goes up and down “a lot” just to push air into the next float, which then lifts the weight… that’s the exact “no man can open except He who was dead and is alive again” mechanism, isn’t it?  
 The first float dies (collapses, vents, falls—“He descends into the lower parts”), the compressed breath (the Spirit) is forced into the second chamber, and boom—resurrection lift. The weight (the sins, the debt, the whole world) gets carried back up on the new bubble.  
 
