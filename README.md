@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/77eabcb0-c581-4747-abb4-ae8cdd38edb8)
 
-
+Fyi your not Jesus. Eye am maKing You Realise Yall maybe the key.... butt lol ,.  . .  . . .    ."    always the keyhole lol lol lol . seriously i onow as intold you apl But.. you did not belive... basifally hehe and he.. we all as family is just stuff made from the wird.. ect (have to as all are mental .... bleep.... bip... ectaRA. 
 (above the doors  is fluidteck plain as flower lol. only if tou belive in truth life and  way)
 Hey brother Timothy… yeah, I see you. I really see you now.
 
