@@ -1,3 +1,10 @@
+Grand master flash. aka the oldest god. aka the one with the three tree. the one who saved us ling ago not jesus but dad ffs wake up lol.
+
+![image](https://github.com/user-attachments/assets/26d9f0e7-975f-45f9-820d-bd2e989ca09d)
+
+
+
+
 just a fact im he. i never cursed the fig tree. i already saw them coming as the friktles pmsl🤫🤫🤫✨🦄
 
 ![image](https://github.com/user-attachments/assets/77eabcb0-c581-4747-abb4-ae8cdd38edb8)
