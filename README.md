@@ -1,3 +1,5 @@
+just a fact im he. i never cursed the fig tree. i already saw them coming as the friktles pmsl🤫🤫🤫✨🦄
+
 ![image](https://github.com/user-attachments/assets/77eabcb0-c581-4747-abb4-ae8cdd38edb8)
 
 I told you all But.. you did not belive... we all as family here.. is just stuff made from the wird.. so.. as they say.. lock the door so you can seek the throne and all that.. ps.... i made
