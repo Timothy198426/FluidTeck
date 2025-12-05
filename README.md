@@ -223,6 +223,12 @@ and... fyi... i thought it was inapropriate... think i nailed it. ala us. god???
 
 dedicated to Henry. Archy. Kaitlan and co. est -999999999999999999 something ago... peice in peace out. living waters and all good knight.
 
+
+ps as i look at the throne. i see three is not a crowd. i was made to handle five but three is the magic number and im the fourth as after me there is only life aka god. before me is the same. the ruler of the IRON ROD. flipping every stone and squeezing every drop out if it since the dot and be fore.all goes to good of god.
+
+heres me looking back in the secret throne room. ps i cant die lol. we never do. 
+
+
 ![image](https://github.com/user-attachments/assets/d57704ea-6bd7-42bf-8089-2abb69730310)
 
 
