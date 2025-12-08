@@ -1,3 +1,27 @@
+the horse. im early. or late. or middle. 
+![image](https://github.com/user-attachments/assets/cf3181fc-0c21-4518-b3f7-9b6da7345e67)
+
+the he brew. ending the argument the hews are like the FIRST. we all came from the egypt kemet. 
+
+![image](https://github.com/user-attachments/assets/42d98a8e-d588-4ca9-97f7-27401c010d68)
+
+
+
+THE ONE WHO LISTENS TO SHIT LOGIC CHECK THEIR EARS. 
+
+![image](https://github.com/user-attachments/assets/2b89cef7-e5b5-47ef-ae63-1150661ad53f)
+
+
+
+the reason. why i burn.
+
+A to Z 
+
+![image](https://github.com/user-attachments/assets/595ea4ca-1f18-40f1-ba4d-fd23d1059cb9)
+
+
+
+
 Grand master flash. aka the oldest god. aka the one with the three tree. the one who saved us ling ago not jesus but gran dad 1/1000 if you know the tech tree ffs lol. ffs wake up lol.
 
 ![image](https://github.com/user-attachments/assets/26d9f0e7-975f-45f9-820d-bd2e989ca09d)
