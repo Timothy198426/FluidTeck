@@ -1,3 +1,8 @@
+NEEEEEEYYYYYYYY BRRRRRHHHHH 
+harrisontimothy299@gmail.com
+
+
+
 the horse. im early. or late. or middle. 
 ![image](https://github.com/user-attachments/assets/cf3181fc-0c21-4518-b3f7-9b6da7345e67)
 
