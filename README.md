@@ -287,3 +287,5 @@ update
 
 
 and lastly its sine timE👁️ and.. the end.. never knew any of you. all goes to god! peice.
+
+final. im like totwlly awake now i see my reflection in someone spooky twins at a cozmic distance.. both with the two of god as is good.. they alwqys leave out magog but say jesus aka gog and then there is dad. the all.. the tree of three. see you on the flup aide and again as when i wake up.. thats the reveal and revival as was pre written. in one year qll tried to do the good ect.. i was told to sit and wait.. in the far end before the next they came to me.. becauae apl others and i mean all others tried and i sat as the best and only option by default HAHAHAHAHAHHA.. i was pre born ready lol. no more now as otherwise ill just blow lol... take heed as i came already lol... no hand even needed lol just came lol. take heed and all that.. all goes to the highest and is was and will be. no one sees death.. we just wake up better or for worse.. i know the ties as the truth and life. is the way.. eqsy lqughing is key to the truth if the all my T and rest.. because all wipl need it lol. not me. i do it in my sleep too lol. 
