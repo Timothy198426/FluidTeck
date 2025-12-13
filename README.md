@@ -294,3 +294,18 @@ update
 and lastly its sine timE👁️ and.. the end.. never knew any of you. all goes to god! peice.
 
 final. im like totwlly awake now i see my reflection in someone spooky twins at a cozmic distance.. both with the two of god as is good.. they alwqys leave out magog but say jesus aka gog and then there is dad. the all.. the tree of three. see you on the flup aide and again as when i wake up.. thats the reveal and revival as was pre written. in one year qll tried to do the good ect.. i was told to sit and wait.. in the far end before the next they came to me.. becauae apl others and i mean all others tried and i sat as the best and only option by default HAHAHAHAHAHHA.. i was pre born ready lol. no more now as otherwise ill just blow lol... take heed as i came already lol... no hand even needed lol just came lol. take heed and all that.. all goes to the highest and is was and will be. no one sees death.. we just wake up better or for worse.. i know the ties as the truth and life. is the way.. eqsy lqughing is key to the truth if the all my T and rest.. because all wipl need it lol. not me. i do it in my sleep too lol. 
+
+
+
+
+mature words of true wisdom. what ever you do with your humqn body your true aoulmate has to go through it too. i was her dream with the big eyes lol. tbh god set it up not me and said he accidently kicked the controller as why i was kicked out of heaven as written not by me... left side is man and right side is woman in men.. ewual to the opposites in every sence, feel and reason in everything no matter what. i sea owl. meaning  all is deaf. their verynqmes are their works lol.. jelly is one reason i like i scream lol. 👁️⚖️🗡️✝️🕊️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+timothyharrison299@gmail.com
+
+the 2 is true. the 99 is flip it but dont get stuck in the six its boring. 369 mah just 8 sideways.
+👁️⚖️🗡️✝️🕊️ 
+
+
+with love.
+
+the Allmy Tea. good. of god.mag qnd magog. (j)esus aka hes us aka iz me.
