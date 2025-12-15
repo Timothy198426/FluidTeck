@@ -1,16 +1,20 @@
+BACKED BY TRUTH WAY LIFE
+UNIVERSAL LAW OF BALANCE
+      
       BIBLE/BY BALL.
      GO SPELL/GOSPEL.
 GOD/MAGOG/MAG(JESUS)/FLUIDTECK 
 BY THE ALL MY TEA/ALL MIGHTY
         Good.GOD.gd.
-  FIRST THOUGHT/WORD/ACTION
+    THOUGHT/WORD/ACTION
         REVELATIONS.
          est 0-♾️
-         
+
+"HE IS COMING FROM THE CLOUDS"
+      GOOGLE EARTH PROOF
+
+      
 ![image](https://github.com/user-attachments/assets/1a31510d-19e3-44c7-b817-025f1dcdc761)
-
-👁️⚖️🗡️✝️🕊️
-
 
 
 
@@ -23,7 +27,7 @@ BY THE ALL MY TEA/ALL MIGHTY
 
 ![image](https://github.com/user-attachments/assets/9072b878-c6ce-4714-9ac2-079625b52f58)
 
-![image](https://github.com/user-attachments/assets/e115978a-69ff-4d7f-80f1-628be6e44fac)
+
 
 
 
