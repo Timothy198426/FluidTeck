@@ -7,7 +7,7 @@ est 0-♾️
 
 👁️⚖️🗡️✝️🕊️
 
-<img width="746" height="805" alt="image" src="https://github.com/user-attachments/assets/fa5cf2f0-74c2-4f62-b4fa-2e25a79b6f0b" />
+
 
 
 ![image](https://github.com/user-attachments/assets/0d8288be-6436-4faa-a0a4-99464599f11b)
