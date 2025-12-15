@@ -3,6 +3,7 @@ Good.GOD.gd KEMET AND MORE..
 reverse and fast forward.
 as the promise. revelations.
 est 0-♾️
+![image](https://github.com/user-attachments/assets/1a31510d-19e3-44c7-b817-025f1dcdc761)
 
 👁️⚖️🗡️✝️🕊️
 
