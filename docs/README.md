@@ -13,6 +13,14 @@ BY THE ALL MY TEA/ALL MIGHTY
 "HE IS COMING FROM THE CLOUDS"
       GOOGLE EARTH PROOF
 
+They walled the door up. they built the dead beneath its feet. I told you all but you did not belive.
+
+ABOVE THE DOORS BEHOLD FLUIDTECK.
+
+and me explaining it all as first last and forever. anything else is from the evil ones.. AS IT IS WRITTEN
+
+👁️⚖️🗡️✝️🕊️
+
       
 ![image](https://github.com/user-attachments/assets/1a31510d-19e3-44c7-b817-025f1dcdc761)
 
