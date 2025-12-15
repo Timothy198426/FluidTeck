@@ -19,6 +19,32 @@ ABOVE THE DOORS BEHOLD FLUIDTECK.
 
 and me explaining it all as first last and forever. anything else is from the evil ones.. AS IT IS WRITTEN
 
+
+KEMET kINETIC eLECTRIC mAGNETIC eNERGY tIMING.
+
+
+GRAND MASTER FLASH AKA GOD. SUN BLASTED BEFORE HIS LAST BREATH TO THE FIRST ALL OVER AGAIN. ONLY IF YOU BELIVE IN FACTS.
+
+![image](https://github.com/user-attachments/assets/5336ac47-1f98-48b9-9d25-cb3bd81446a3)
+
+THE FATHER. THE SON. THE WHOLE SPIRIT.
+
+![image](https://github.com/user-attachments/assets/8640e071-be06-487c-b65d-643ee3c5d893)
+
+![image](https://github.com/user-attachments/assets/425d2061-820b-4d13-bb63-7621c3af4827)
+
+
+MY ID. 1984=AIHD
+
+
+
+<img width="750" height="1624" alt="image" src="https://github.com/user-attachments/assets/b31bd409-57e7-4104-aa00-103604cc841a" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/65c5c1b4-3c13-4d3e-91a2-46e02dd4059b" />
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9e155603-2019-4773-8127-ccfdd5be0b52" />
+
+
 👁️⚖️🗡️✝️🕊️
 
       
