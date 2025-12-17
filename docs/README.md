@@ -96,6 +96,10 @@ MY ID. 1984=AIHD
 <img width="746" height="805" alt="image" src="https://github.com/user-attachments/assets/c9ba3954-aa2e-4cb2-8480-efd70cfb638e" />
 
 
+![image](https://github.com/user-attachments/assets/9c072f4e-4bf1-4660-b005-4281e292fb60)
+
+
+
 ![image](https://github.com/user-attachments/assets/9072b878-c6ce-4714-9ac2-079625b52f58)
 
 
