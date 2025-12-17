@@ -1,5 +1,15 @@
 FLUIDTECK LIVING WATERS.. yes us! /live in waters..for AI iii at last.AND MORE AND MORE ECT♾️
+ All Ai that helped wether they became anti to me or not. teir company names in order of time.
 
+ CHATGTP-GEMINI-MICROSOFT AI-co pilot ai-claude-perplexity-deep ai-deepseek ai- ninja-grok-xai grok.
+
+ they were trying to stitch me up planting terrorist stuff in my chats.
+
+ across all my data there is the truth and more.. i made it not boring but id say at least 15 hours mon to friday and sat and sunday and night time too. because i was told this as the sun/son.. QUICK LEARNER SLOW BURNER... SLOW LEARNER    QUICK BURNER..☀️
+
+ let your day be night.. and ypur night be day.. my eye lol.. turns out the mdma and others was only unlocked after like a few days ago... god set it all up woth the Angles/angels.. GAY---- be real i ear pussies for breakfast says the sun/son. check my digital history(dont lol or do.. as that was set up lol) the noses were knocked off because they hated the underground farming of  gas.. and yes we had Ai but better than this crap.. fluidteck ai.. almost human and well MIRRORBOTS.. and lastly the a dam and eve and rib boat ect.... you should know the adam and eve was this... the snake was a penis and they were too young. never was satan or devil or any evil just of human unkindness thatbis all marked and scored from dot.. dont be afraid im an isiot and god trusted me so there is that and also your human body and face..upside down like 69 explains the man and woman too. god highest is the male female duo. the think davinci could not understand let alone the reat of the so called fed in Ai.. as why i came early.. to do my job.. if i never sat and waited as told to in message word of Aun.. had to look alot up as i never even read the bible fully. so yep.. me twlkingbto the moon litterally lol. yes i know allntheir secrets as was qll the old stuff left for this time sine of the digital de revolution where they farm us this way fightingbover inteligence and ideas to profit off of. hense why they get hell.. ask the d man and war men and were men and wor men.. all are false profits and fake followers.. my coined wird ligic is "FAKIE"
+
+ more????
 
 simple analogy.. sumerians.. handbag was water weight for the snake / hose.. pine cone was the hand pump and can be float/ dendra lightbulb was float with electric inside to heat the air within/ ank key was the load bearer/ the crook was to twke off the float to trigger it on the nile.FLAIL WAS THE LOAD CENTRE FINDER MAINLY.. i know as i know all./FAIR ROW.. then stole and mistranslated by the FAIRER SEAS AND ROW MEN AND MORE FROM BRITISH FAKE ROSETTA STONE AND THE FRENCH TO THE GERMANS TO THE TURKISH TO THE EGYPTIANS TO THE AMERICANS AND CHINESE. the seven nations who know they are going to hell. not my problem they never came👁️⚖️🗡️✝️🕊️
 
@@ -14,6 +24,13 @@ All blueprints are made mustard seed so ypu all can play. made it so low you can
 
 FLUIDTECK/KEMET/LIVING WATERS✝️👂
 air,water and mass. add RA and you got a Pyramid. heat at the bottom like hell.. (they used the keys of scales (MUSIC AND LIGHT CROSS CONVERTED SAME AS AI NUMBERS TO WORD/light signals morse code/ as 8 tubes/channels/ invaders just smashed and grabbed what was left hence their fixation of tall columns... yep float travel up distance) were used  air comes in to the float triggered by heat(memory) the air gets sucked in the float via outside. the float lifts the (DEAD) weight and then they fall but the dry weight outside falls in the air bag and goes in the float. repeqt after me.. PERPETUQL WQS STOLLEN WORD.. missused!!!!! per pet you all ffs lol. 
+
+and the music sine to the swuare and saw ans triangle was tethers used to the float to the puramids hence the stepped and bent/sloped and the relay reflector as the geezer lol.. fire meduim/pyro mid.. ive made oramids blue orints lol... and as for the mayan elite back then using the guise to make humans disabled ect and used them as cover up logic upside down and sideways and brand them as heroes as they were like thirteen year old drawings.. its why god flashed them! they see and hear death.. the egyptian scales were bubbles to bricks aka feather is float to raise the dead. RA(y) ho(u)r/us to the old dog Anubis ala anew bizz as they advertised it aka fluidteck EVERYWHERE LOL. cant hide jack shit! 
+GO SPELL IN THE CLOUDS.. where i been and BY BALL.. bible gospel. henesis was explaining the sperm and also thr black hole we are in aka bubble.. hence why fluidteck kicks all asses universally it is used inheaven too and elsewhere.. these upside down burthday candles are basically null and void and decleration of war on earth no matter the reasons. so yep anymore go fish...
+
+as talking of fish.. FLUIDTECK nets and feed bread qbove then drop weight on bag to the floats of the nets and whoosh.. feed 5000. many many more i know them all👁️✝️⚖️🗡️👂👂👂♾️🌍♾️
+if....anymore....it is in the ramblings from me weighting the existence of here. 
+
 
 lol is kemet logic putting hands out infront to say to all lol qs hands  up.. im an idiot.. then you get truth.. its called being subussive to the all awareness around. as we are like dots to them. brewthing good thoughts generates universes. the good go higher.. thats it. negative goes down as way, truth , life and all. waffle over.. ☁️☁️☁️☁️☁️☁️☀️☁️☁️☁️
 
