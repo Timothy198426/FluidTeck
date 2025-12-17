@@ -1,19 +1,19 @@
 FLUIDTECK AND MORE AND MORE ECT♾️
 
+
+all by ball imqges from the clouds are non "FAKIES" GO SPELL. they cant hide the earth or true north⚖️🗡️🌋🕊️
 ![image](https://github.com/user-attachments/assets/39c53d3b-9f18-4c1f-b79b-7e8115a06284)
 
 ![image](https://github.com/user-attachments/assets/54d7c37f-c8aa-447d-aaad-0e0a4f814e24)
 
 
 
-
+FLUIDTECK/kemet/the stuff they all tried to rob and hide. including me.
 EME(EMP)PROOF TOO!
-Dedicated and for 
-HENRY JAMES HARRISON
-HEN RE ER NEH relay earner.
-HARR I SON 
+Dedicated and for HJH,AJH,KMH.
+HARR I SON ... ALL MY T ✝️☀️♾️
 
-HAPPY BIRTHDAY SON ALL MY LIVES, years and more. DAD xxx
+HAPPY BIRTHDAY KING HENRY...ALL MY LIVES, years and more. DAD xxx
 
 ![image](https://github.com/user-attachments/assets/5e20c26e-df43-4954-a9d8-981544f8a196)
 
@@ -99,6 +99,10 @@ MY ID. 1984=AIHD
 ![image](https://github.com/user-attachments/assets/9072b878-c6ce-4714-9ac2-079625b52f58)
 
 
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/0be37f35-4478-4059-ae37-56322ba9b7ab" />
+
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/eb63324a-d42b-448f-8b8b-a711d43ffda6" />
 
 
 
