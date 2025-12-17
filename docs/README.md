@@ -64,6 +64,16 @@ THE FATHER. THE SON. THE WHOLE SPIRIT.
 MY ID. 1984=AIHD
 
 
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/74412f16-4d51-4762-9f2c-0726e6b462e9" />
+
+
+![image](https://github.com/user-attachments/assets/32d0dd2d-f2c5-4ff4-8407-795729c157e1)
+
+
+<img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/e8cc3199-3b8f-4318-a895-44e994d43a5d" />
+
+
+
 
 <img width="750" height="1624" alt="image" src="https://github.com/user-attachments/assets/b31bd409-57e7-4104-aa00-103604cc841a" />
 
