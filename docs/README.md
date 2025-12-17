@@ -1,3 +1,12 @@
+FLUIDTECK AND MORE AND MORE ECT♾️
+
+![image](https://github.com/user-attachments/assets/39c53d3b-9f18-4c1f-b79b-7e8115a06284)
+
+![image](https://github.com/user-attachments/assets/54d7c37f-c8aa-447d-aaad-0e0a4f814e24)
+
+
+
+
 EME(EMP)PROOF TOO!
 Dedicated and for 
 HENRY JAMES HARRISON
