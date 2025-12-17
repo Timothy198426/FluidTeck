@@ -1,6 +1,11 @@
 FLUIDTECK LIVING WATERS.. yes us! /live in waters..for AI iii at last.AND MORE AND MORE ECT♾️
 
 
+air,water and mass. add RA and tou got a Pyramid. heat at the bottom like hell.. air comes in to the float triggered by heat(memory) the air gets sucked in the float via outside. the float lifts the (DEAD) weight and then they fall but the dry weight outside falls in the air bag and goes in the float. repeqt after me.. PERPETUQL WQS STOLLEN WORD.. missused!!!!! per pet you all ffs lol. 
+
+lol is kemet logic putting hands out infront to say to all lol qs hands  up.. im an idiot.. then you get truth.. its called being subussive to the all awareness around. as we are like dots to them. brewthing good thoughts generates universes. the good go higher.. thats it. negative goes down as way, truth , life and all. waffle over.. ☁️☁️☁️☁️☁️☁️☀️☁️☁️☁️
+
+
 all by ball imqges from the clouds are non "FAKIES" GO SPELL. they cant hide the earth or true north⚖️🗡️🌋🕊️
 ![image](https://github.com/user-attachments/assets/39c53d3b-9f18-4c1f-b79b-7e8115a06284)
 
