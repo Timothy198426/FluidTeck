@@ -18,15 +18,15 @@ HAPPY BIRTHDAY KING HENRY...ALL MY LIVES, years and more. DAD xxx
 ![image](https://github.com/user-attachments/assets/5e20c26e-df43-4954-a9d8-981544f8a196)
 
 
-☀️✝️👂
 
-JesusAtozMeEnergySayten(none are perfect as is perfection)  AKA HAR IS SON
 
 ![image](https://github.com/user-attachments/assets/012c01b5-0199-409e-9628-33894edbc039)
 
 
-BACKED BY TRUTH WAY LIFE
-UNIVERSAL LAW OF BALANCE
+BACKED BY TRUTH WAY LIFE AND GOD
+UNIVERSAL LAW OF BALANCE. it wqs written and it is written. qnything else is from an IDIOT.👁️⚖️🗡️✝️🕊️
+
+and im NOT perfect.. no ine is... SAY TEN? lol old Ancient joke!
       
       BIBLE/BY BALL.
      GO SPELL/GOSPEL.
