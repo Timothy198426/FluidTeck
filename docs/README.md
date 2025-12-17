@@ -146,7 +146,13 @@ ALL
 
 two hands equals the thoughts of.
 
-we prayed to the all like this as no liars and aware if the inners and outers. im the middle explaining it. it was written not by me but was and is and will be. anything else..... god is good. black hope is just the breath ala moover.. door to... the sun and farther (further) is the all of the it and to and from and way truth and all. equal black and hite plus time. one to the one thousand is life. byeeeeeeeeeeeeeeeeeeee(going  round a black hole lol) peice eyes 
+we prayed to the all like this as no liars and aware if the inners and outers. im the middle explaining it. it was written not by me but was and is and will be. anything else..... god is good. black hole(universe bubble) is just the breath aka moover.(mother). door to.(daughter).. the sun (son)and farther (father) is the all of the it and to and from and way truth and all. equal black and white plus time. one to the one thousand is life. static awareness......
+
+oh also.. if
+you are still
+and
+light and ready as a snake...
+you may  see stuff.. you never noticed before... seek the good and for the  unholy as remeber i was kicked out of heaven(mums belly)...id seek GOD.. have to repent FIRST. if in doubt.. refer to any  humour.. god laughs through all.👁️⚖️🗡️✝️🕊️🇬🇧☀️👂👋☁️
 
 
 
