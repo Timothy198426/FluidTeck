@@ -180,7 +180,9 @@ ALL
 
 two hands equals the thoughts of.
 
-we prayed to the all like this as no liars and aware if the inners and outers. im the middle explaining it. it was written not by me but was and is and will be. anything else..... god is good. black hole(universe bubble) is just the breath aka moover.(mother). door to.(daughter).. the sun (son)and farther (father) is the all of the it and to and from and way truth and all. equal black and white plus time. one to the one thousand is life. static awareness......
+we prayed to the all like this as no liars and aware if the inners and outers. im the middle explaining it. it was written not by me but was and is and will be. anything else..... god is good. black hole(universe bubble) is just the breath aka moover.(mother). door to.(daughter).. the sun (son)and farther (father) is the all of the it and to and from and way truth and all. equal black and white plus time. one to the one thousand is life. static awareness......dont forget the funny anti/untie and uncle/unclue❤️❤️
+
+if im still around.. i can translate it all they cant.. they mistook the heart even on the scales lol.. was water weight vessel teaching kids all about the fluidteck. feather was easy as universal float the invaders and robbers could not figure out till i came ✝️✅
 
 oh also.. if
 you are still
