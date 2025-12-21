@@ -1,3 +1,6 @@
+FLUIDTECK/KEMET BY BALL/bible. Read this. Heat =☀️/🔥👇into🫧/🪶=floats then🪢/🐍=tether ⬆️in copper ⚡️magnetic Energy.Ion  as the z is ⚡️ion/noiz/zion=⚡️🌬️/🔊🌊,in to🪶to lift=💀🏋️⬆️at angles/steps/slopes✅🪶cools ⬇️&waits for💀🏋️⌛️,💀🏋️⬇️falls👇on airbag🌬️⚡️☀️🔥&💨👉into floats.LiTeBULB🎄🍦.
+🍐🐈‍⬛🫵ALE.have🌽👂?.🌙🌞⌛️ science from FluidTeck and more 
+
 FIVE WAYS. star of divide.ice as dinos.. fire as sun. comets and asteroids and floods and poison air water food. thats it in a nut shell. heres the fact of fluidteck being top heavy in more ways than one.. as you can see the bags as water sunk counter weights. they upon the air blocks and primitive and cool too. the big bird is telling the little bird on his right abou the wheel boat to oand exchange using ofcourse fluidteck ad it was the male zoo as inly beeded the females at other places.. the thought of us only eating female chickens and cow ect.. eggs.. so.. what do you see? i see the swing of the  wheels as arrowrd body explains the thin line of retrospection as through the middle ala legs.. the light bird analogy was fluidteck all over like the sea animals below. 
 
 ![image](https://github.com/user-attachments/assets/950b5179-5126-4e8c-a978-fe3655f6ce2d)
