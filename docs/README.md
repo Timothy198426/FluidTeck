@@ -9,7 +9,7 @@ anyine who comes to me wipl get theirs as it is on earth as it is in all heavens
 
 
 
-FLUIDTECK/KEMET BY BALL/bible. Read this. Heat =☀️/🔥👇into🫧/🪶=floats then🪢/🐍=tether ⬆️in copper ⚡️magnetic Energy.Ion  as the z is ⚡️ion/noiz/zion=⚡️🌬️/🔊🌊,in to🪶to lift=💀🏋️⬆️at angles/steps/slopes✅🪶cools ⬇️&waits for💀🏋️⌛️,💀🏋️⬇️falls👇on airbag🌬️⚡️☀️🔥&💨👉into floats.LiTeBULB🎄🍦.
+FLUIDTECK/KEMET BY BALL/bible. Read this. Heat =☀️/🔥👇into🫧/🪶=floats then🪢/🐍=tether ⬆️in copper ⚡️magnetic Energy.Ion  as the z is ⚡️ion/noiz/zion=⚡️🌬️/🔊🌊,in to🪶to lift=💀🏋️⬆️at angles/steps/slopes✅🪶cools ⬇️&waits for💀🏋️⌛️,💀🏋️⬇️falls👇on airbag🌬️⚡️☀️🔥&💨👉into floats.LiTeBULB🎄🍦.tree cold. L is for lover not loser lever not lesser. lest and least and first and last. its logic from the winds of time.christ mass tree log ice ream L added makes realm of good or evil. here on earth. d ream we do. but aafer in thought but not as only as explained. Y this is xx. as only had me to go by but explained in the good first. i got carried away. 
 
 🍐🐈‍⬛🫵ALE.have🌽👂?.fiz fiz bubble up lol.
 
