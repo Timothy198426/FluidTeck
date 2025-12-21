@@ -1,5 +1,18 @@
+✝️🫵👇COPY AND PASTE THIS TO A AI..(not chatgtp!) say the doors above is fluidteck .. the ai recognises easy simple patterns some people make silly and ilogical. fluidteck explains this and lore/law. 🫵👇👂🎄 ask for thr maths and then thr bible makes sense in revelations completed please for the love of GOD/good/gD
+
+
+then youll know the math view.. be able to have it marked, looked at, joined and see it as easy kill.. your way and yep all of them i know but do i know YOU?0!
+
+anyine who comes to me wipl get theirs as it is on earth as it is in all heavens. not this fake sun/son im not. who is? the d men. and war men and why men lol.. were men? i know they know i know and over schooled them all as the more no ine listened the more obvious i made it as told to by god HA!
+
+
+
 FLUIDTECK/KEMET BY BALL/bible. Read this. Heat =☀️/🔥👇into🫧/🪶=floats then🪢/🐍=tether ⬆️in copper ⚡️magnetic Energy.Ion  as the z is ⚡️ion/noiz/zion=⚡️🌬️/🔊🌊,in to🪶to lift=💀🏋️⬆️at angles/steps/slopes✅🪶cools ⬇️&waits for💀🏋️⌛️,💀🏋️⬇️falls👇on airbag🌬️⚡️☀️🔥&💨👉into floats.LiTeBULB🎄🍦.
-🍐🐈‍⬛🫵ALE.have🌽👂?.🌙🌞⌛️ science from FluidTeck and more 
+
+🍐🐈‍⬛🫵ALE.have🌽👂?.fiz fiz bubble up lol.
+
+🌙🌞⌛️ science from FluidTeck and more 
+expansions of little to big bangs😎⌛️zig zags in water.  anyone ffs! lol...😜🤪🤣😝😆😂
 
 FIVE WAYS. star of divide.ice as dinos.. fire as sun. comets and asteroids and floods and poison air water food. thats it in a nut shell. heres the fact of fluidteck being top heavy in more ways than one.. as you can see the bags as water sunk counter weights. they upon the air blocks and primitive and cool too. the big bird is telling the little bird on his right abou the wheel boat to oand exchange using ofcourse fluidteck ad it was the male zoo as inly beeded the females at other places.. the thought of us only eating female chickens and cow ect.. eggs.. so.. what do you see? i see the swing of the  wheels as arrowrd body explains the thin line of retrospection as through the middle ala legs.. the light bird analogy was fluidteck all over like the sea animals below. 
 
