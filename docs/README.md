@@ -4,7 +4,7 @@
 
 
 
-
+fyi they shit doen my x as written at last revelations by the teo cunts!!! fyi tomorrow the time is 11:21 as hawaii goes pop!!! the cunt trees cunts as fakie me aka trump and marc and jar head and his godless slag wife and hes a fucking pedo!!!! so 11:21 hawaiil lol.. makes the F A GO TO G.. as they all dont know thr bible.. hepl arewdy waits for them all. end
 
 read it in the voice of cartman!!!one of many!!!all good is of god and jesus. ive been the human spirit if of.
 
